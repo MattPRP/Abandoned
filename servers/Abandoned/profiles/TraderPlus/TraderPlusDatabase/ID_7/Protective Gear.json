@@ -1,0 +1,32 @@
+{
+    "CategoryName": "Protective Gear",
+    "Products": [
+        "NBCBootsYellow 12 0",              
+        "NBCPantsYellow 12 0",              
+        "NBCJacketYellow 12 0",             
+        "NBCGlovesYellow 12 0",             
+        "NBCHoodYellow 12 0",               
+        "NBCBootsGray 12 0",                
+        "NBCPantsGray 12 0",                
+        "NBCJacketGray 12 0",               
+        "NBCGlovesGray 12 0",               
+        "NBCHoodGray 12 0",                 
+        "MassNBCbootsYellow 12 0",          
+        "MassNBCpantsYellow 12 0",          
+        "MassNBCJacketYellow 12 0",         
+        "MassNBCglovesBlue 12 0",           
+        "MassNBChoodYellow 12 0",           
+        "nbc_longcoat_mung 12 0",           
+        "GasMask 12 0",                     
+        "mag3_gasmask_mung 12 0",           
+        "stalker_gasmask_white_mung 12 0",  
+        "stalker_gasmask_black_mung 12 0",  
+        "GP5GasMask 12 0",                  
+        "Massblackgp5 12 0",                
+        "PMK_5A_Gas_Mask 12 0",             
+        "AirborneMask 12 0",                
+        "GasMask_Filter 12 0",              
+        "AntiChemInjector 12 0",            
+        "MassNBC_Bag 12 0"            
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "CategoryName": "Vanilla Auto Parts",
+    "Products": [
+        "SparkPlug 9 0",
+        "HeadlightH7 10 0",
+        "HeadlightH7_Box 10 0",
+        "CarRadiator 9 0",
+        "CarBattery 9 0",
+        "TruckBattery 12 0",
+        "CanisterGasoline 7 0",
+        "EpoxyPutty 10 0",
+        "TireRepairKit 10 0",
+        "LugWrench 10 0",
+        "Crowbar 10 0",
+        "Wrench 10 0",
+        "TraderPlusWrench 10 0",
+        "PipeWrench 10 0",
+        "HydraulicJack 10 0",
+        "TrafficCone 10 0",
+        "CarLock 9 0",
+        "Carlockpick 10 0"
+    ]
+}

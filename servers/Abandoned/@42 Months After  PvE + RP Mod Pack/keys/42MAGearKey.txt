@@ -1,0 +1,10 @@
+Authority:  42MAGearKey
+Creation:   8/20/2022 6:31:17 PM (by SURFACE-PRO\rylic)
+
+== PRIVATE KEY ==
+File: C:\Users\rylic\OneDrive\Desktop\42MA-Gear-Mod\keys\42MAGearKey.biprivatekey
+MD5: 0e8b61fd2533d991daf770386f012600
+== PUBLIC KEY ==
+File: C:\Users\rylic\OneDrive\Desktop\42MA-Gear-Mod\keys\42MAGearKey.bikey
+MD5: ecd5ec73b73bc1b0b7e28a3baa860c5f
+

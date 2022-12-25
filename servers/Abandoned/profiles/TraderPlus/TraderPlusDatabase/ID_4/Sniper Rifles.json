@@ -1,0 +1,30 @@
+{
+    "CategoryName": "Sniper Rifles",
+    "Products": [
+        "Winchester70_Black 1 0",   
+        "Winchester70_Green 1 0",   
+        "SVD 1 0",                  
+        "FOX_SVD 1 0",              
+        "FOX_SVD_GREEN 1 0",        
+        "FOX_SVDM 1 0",             
+        "FOX_SVDS 1 0",             
+        "FOX_SVDS_GREEN 1 0",       
+        "FOX_SVDK 1 0",             
+        "FOX_SVDK_GREEN 1 0",       
+        "ttr700 1 0",               
+        "FOX_FRF2 1 0",             
+        "Massm300 1 0",             
+        "Massm300_camo 1 0",        
+        "MassKivaari 1 0",          
+        "Massm24 1 0",              
+        "Mass_RugerPrecision 1 0",  
+        "Mass_M98B 1 0",            
+        "Mass_M98BShort 1 0",       
+        "csmcmillan_mung 1 0",      
+        "ttbar 1 0",                
+        "jmc_SnowOwl 1 0",          
+        "jmc_Prototype_Blue 1 0",   
+        "jmc_Prototype_Red 1 0",    
+        "jmc_Prototype_White 1 0"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "CategoryName": "Meat",
+    "Products": [
+        "Guts 2 0",
+        "Bone 5 0",
+        "Lard 4 0",
+        "DeadChicken_Brown 1 0",
+        "DeadChicken_Spotted 2 0",
+        "DeadChicken_White 2 0",
+        "DeadRooster 2 0",
+        "DeadRabbit 2 0",
+        "GoatSteakMeat 2 0",
+        "SheepSteakMeat 2 0",
+        "PigSteakMeat 2 0",
+        "BoarSteakMeat 2 0",
+        "DeerSteakMeat 46 0",
+        "WolfSteakMeat 2 0",
+        "Radioactive_wolf_Meat 2 0",
+        "BearSteakMeat 11 0",
+        "Radioactive_bear_Meat 2 2"
+    ]
+}

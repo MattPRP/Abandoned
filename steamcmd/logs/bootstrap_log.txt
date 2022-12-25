@@ -1,0 +1,580 @@
+
+
+[2022-12-25 07:34:00] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:34:00] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" @NoPromptForPassword 1 +login 42MonthsAfter GVrG&8SehSj5=HP +app_info_print 223350 +quit
+[2022-12-25 07:34:00] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:34:00] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:34:00] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:34:00] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:34:00] Checking for update on startup
+[2022-12-25 07:34:00] Checking for available updates...
+[2022-12-25 07:34:00] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:34:00] Manifest download: send request
+[2022-12-25 07:34:00] Manifest download: waiting for download to finish
+[2022-12-25 07:34:01] Manifest download: finished
+[2022-12-25 07:34:01] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:34:01] Nothing to do
+[2022-12-25 07:34:01] Verifying installation...
+[2022-12-25 07:34:01] Performing checksum verification of executable files
+[2022-12-25 07:34:01] Verification complete
+[2022-12-25 07:34:03] Shutdown
+
+
+[2022-12-25 07:34:03] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:34:03] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1602372402 validate +workshop_download_item 221100 1559212036 validate +workshop_download_item 221100 1564026768 validate +workshop_download_item 221100 1710977250 validate +workshop_download_item 221100 2794690371 validate +workshop_download_item 221100 1854626456 validate +workshop_download_item 221100 1646187754 validate +workshop_download_item 221100 1565871491 validate +workshop_download_item 221100 2545327648 validate +workshop_download_item 221100 2276010135 validate +quit
+[2022-12-25 07:34:03] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:34:03] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:34:03] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:34:03] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:34:03] Checking for update on startup
+[2022-12-25 07:34:03] Checking for available updates...
+[2022-12-25 07:34:03] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:34:03] Manifest download: send request
+[2022-12-25 07:34:03] Manifest download: waiting for download to finish
+[2022-12-25 07:34:03] Manifest download: finished
+[2022-12-25 07:34:03] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:34:03] Nothing to do
+[2022-12-25 07:34:03] Verifying installation...
+[2022-12-25 07:34:03] Performing checksum verification of executable files
+[2022-12-25 07:34:03] Verification complete
+[2022-12-25 07:34:11] Shutdown
+
+
+[2022-12-25 07:34:11] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:34:11] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1791033033 validate +workshop_download_item 221100 1819514788 validate +workshop_download_item 221100 2723807644 validate +workshop_download_item 221100 2757509117 validate +workshop_download_item 221100 1566911166 validate +workshop_download_item 221100 1991570984 validate +workshop_download_item 221100 1797720064 validate +workshop_download_item 221100 1734713776 validate +workshop_download_item 221100 1932611410 validate +workshop_download_item 221100 1623711988 validate +quit
+[2022-12-25 07:34:11] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:34:11] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:34:11] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:34:11] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:34:11] Checking for update on startup
+[2022-12-25 07:34:11] Checking for available updates...
+[2022-12-25 07:34:11] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:34:11] Manifest download: send request
+[2022-12-25 07:34:11] Manifest download: waiting for download to finish
+[2022-12-25 07:34:11] Manifest download: finished
+[2022-12-25 07:34:11] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:34:11] Nothing to do
+[2022-12-25 07:34:11] Verifying installation...
+[2022-12-25 07:34:11] Performing checksum verification of executable files
+[2022-12-25 07:34:11] Verification complete
+[2022-12-25 07:34:19] Shutdown
+
+
+[2022-12-25 07:34:19] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:34:19] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 2353998362 validate +workshop_download_item 221100 2692979668 validate +workshop_download_item 221100 2902744485 validate +workshop_download_item 221100 2834226077 validate +workshop_download_item 221100 2464526692 validate +workshop_download_item 221100 2458896948 validate +quit
+[2022-12-25 07:34:19] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:34:19] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:34:19] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:34:19] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:34:19] Checking for update on startup
+[2022-12-25 07:34:19] Checking for available updates...
+[2022-12-25 07:34:19] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:34:20] Manifest download: send request
+[2022-12-25 07:34:20] Manifest download: waiting for download to finish
+[2022-12-25 07:34:20] Manifest download: finished
+[2022-12-25 07:34:20] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:34:20] Nothing to do
+[2022-12-25 07:34:20] Verifying installation...
+[2022-12-25 07:34:20] Performing checksum verification of executable files
+[2022-12-25 07:34:20] Verification complete
+[2022-12-25 07:34:25] Shutdown
+
+
+[2022-12-25 07:43:53] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:43:53] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP +app_update 223350 -beta public validate +quit
+[2022-12-25 07:43:53] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:43:53] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:43:53] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:43:53] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:43:53] Checking for update on startup
+[2022-12-25 07:43:53] Checking for available updates...
+[2022-12-25 07:43:53] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:43:53] Manifest download: send request
+[2022-12-25 07:43:53] Manifest download: waiting for download to finish
+[2022-12-25 07:43:53] Manifest download: finished
+[2022-12-25 07:43:53] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:43:53] Nothing to do
+[2022-12-25 07:43:53] Verifying installation...
+[2022-12-25 07:43:53] Performing checksum verification of executable files
+[2022-12-25 07:43:53] Verification complete
+[2022-12-25 07:44:01] Shutdown
+
+
+[2022-12-25 07:44:01] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:44:01] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" @NoPromptForPassword 1 +login 42MonthsAfter GVrG&8SehSj5=HP +app_info_print 223350 +quit
+[2022-12-25 07:44:01] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:44:01] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:44:01] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:44:01] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:44:01] Checking for update on startup
+[2022-12-25 07:44:01] Checking for available updates...
+[2022-12-25 07:44:01] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:44:01] Manifest download: send request
+[2022-12-25 07:44:01] Manifest download: waiting for download to finish
+[2022-12-25 07:44:01] Manifest download: finished
+[2022-12-25 07:44:01] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:44:01] Nothing to do
+[2022-12-25 07:44:01] Verifying installation...
+[2022-12-25 07:44:01] Performing checksum verification of executable files
+[2022-12-25 07:44:01] Verification complete
+[2022-12-25 07:44:03] Shutdown
+
+
+[2022-12-25 07:44:03] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:44:03] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1602372402 validate +workshop_download_item 221100 1559212036 validate +workshop_download_item 221100 1564026768 validate +workshop_download_item 221100 1710977250 validate +workshop_download_item 221100 2794690371 validate +workshop_download_item 221100 1854626456 validate +workshop_download_item 221100 1646187754 validate +workshop_download_item 221100 1565871491 validate +workshop_download_item 221100 2545327648 validate +workshop_download_item 221100 2276010135 validate +quit
+[2022-12-25 07:44:03] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:44:03] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:44:03] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:44:03] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:44:03] Checking for update on startup
+[2022-12-25 07:44:03] Checking for available updates...
+[2022-12-25 07:44:03] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:44:03] Manifest download: send request
+[2022-12-25 07:44:04] Manifest download: waiting for download to finish
+[2022-12-25 07:44:04] Manifest download: finished
+[2022-12-25 07:44:04] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:44:04] Nothing to do
+[2022-12-25 07:44:04] Verifying installation...
+[2022-12-25 07:44:04] Performing checksum verification of executable files
+[2022-12-25 07:44:04] Verification complete
+[2022-12-25 07:44:12] Shutdown
+
+
+[2022-12-25 07:44:12] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:44:12] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1791033033 validate +workshop_download_item 221100 1819514788 validate +workshop_download_item 221100 2723807644 validate +workshop_download_item 221100 2757509117 validate +workshop_download_item 221100 1566911166 validate +workshop_download_item 221100 1991570984 validate +workshop_download_item 221100 1797720064 validate +workshop_download_item 221100 1734713776 validate +workshop_download_item 221100 1932611410 validate +workshop_download_item 221100 1623711988 validate +quit
+[2022-12-25 07:44:12] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:44:12] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:44:12] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:44:12] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:44:12] Checking for update on startup
+[2022-12-25 07:44:12] Checking for available updates...
+[2022-12-25 07:44:12] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:44:12] Manifest download: send request
+[2022-12-25 07:44:12] Manifest download: waiting for download to finish
+[2022-12-25 07:44:13] Manifest download: finished
+[2022-12-25 07:44:13] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:44:13] Nothing to do
+[2022-12-25 07:44:13] Verifying installation...
+[2022-12-25 07:44:13] Performing checksum verification of executable files
+[2022-12-25 07:44:13] Verification complete
+[2022-12-25 07:44:20] Shutdown
+
+
+[2022-12-25 07:44:20] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:44:20] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 2353998362 validate +workshop_download_item 221100 2692979668 validate +workshop_download_item 221100 2902744485 validate +workshop_download_item 221100 2834226077 validate +workshop_download_item 221100 2464526692 validate +workshop_download_item 221100 2458896948 validate +quit
+[2022-12-25 07:44:20] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:44:20] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:44:20] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:44:20] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:44:20] Checking for update on startup
+[2022-12-25 07:44:20] Checking for available updates...
+[2022-12-25 07:44:20] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:44:20] Manifest download: send request
+[2022-12-25 07:44:20] Manifest download: waiting for download to finish
+[2022-12-25 07:44:21] Manifest download: finished
+[2022-12-25 07:44:21] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:44:21] Nothing to do
+[2022-12-25 07:44:21] Verifying installation...
+[2022-12-25 07:44:21] Performing checksum verification of executable files
+[2022-12-25 07:44:21] Verification complete
+[2022-12-25 07:44:26] Shutdown
+
+
+[2022-12-25 07:53:54] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:53:54] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP +app_update 223350 -beta public validate +quit
+[2022-12-25 07:53:54] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:53:54] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:53:54] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:53:54] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:53:54] Checking for update on startup
+[2022-12-25 07:53:54] Checking for available updates...
+[2022-12-25 07:53:54] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:53:54] Manifest download: send request
+[2022-12-25 07:53:55] Manifest download: waiting for download to finish
+[2022-12-25 07:53:55] Manifest download: finished
+[2022-12-25 07:53:55] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:53:55] Nothing to do
+[2022-12-25 07:53:55] Verifying installation...
+[2022-12-25 07:53:55] Performing checksum verification of executable files
+[2022-12-25 07:53:55] Verification complete
+[2022-12-25 07:54:02] Shutdown
+
+
+[2022-12-25 07:54:02] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:54:02] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" @NoPromptForPassword 1 +login 42MonthsAfter GVrG&8SehSj5=HP +app_info_print 223350 +quit
+[2022-12-25 07:54:02] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:54:02] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:54:02] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:54:02] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:54:02] Checking for update on startup
+[2022-12-25 07:54:02] Checking for available updates...
+[2022-12-25 07:54:02] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:54:02] Manifest download: send request
+[2022-12-25 07:54:02] Manifest download: waiting for download to finish
+[2022-12-25 07:54:03] Manifest download: finished
+[2022-12-25 07:54:03] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:54:03] Nothing to do
+[2022-12-25 07:54:03] Verifying installation...
+[2022-12-25 07:54:03] Performing checksum verification of executable files
+[2022-12-25 07:54:03] Verification complete
+[2022-12-25 07:54:05] Shutdown
+
+
+[2022-12-25 07:54:05] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:54:05] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1602372402 validate +workshop_download_item 221100 1559212036 validate +workshop_download_item 221100 1564026768 validate +workshop_download_item 221100 1710977250 validate +workshop_download_item 221100 2794690371 validate +workshop_download_item 221100 1854626456 validate +workshop_download_item 221100 1646187754 validate +workshop_download_item 221100 1565871491 validate +workshop_download_item 221100 2545327648 validate +workshop_download_item 221100 2276010135 validate +quit
+[2022-12-25 07:54:05] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:54:05] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:54:05] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:54:05] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:54:05] Checking for update on startup
+[2022-12-25 07:54:05] Checking for available updates...
+[2022-12-25 07:54:05] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:54:05] Manifest download: send request
+[2022-12-25 07:54:05] Manifest download: waiting for download to finish
+[2022-12-25 07:54:06] Manifest download: finished
+[2022-12-25 07:54:06] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:54:06] Nothing to do
+[2022-12-25 07:54:06] Verifying installation...
+[2022-12-25 07:54:06] Performing checksum verification of executable files
+[2022-12-25 07:54:06] Verification complete
+[2022-12-25 07:54:14] Shutdown
+
+
+[2022-12-25 07:54:14] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:54:14] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1791033033 validate +workshop_download_item 221100 1819514788 validate +workshop_download_item 221100 2723807644 validate +workshop_download_item 221100 2757509117 validate +workshop_download_item 221100 1566911166 validate +workshop_download_item 221100 1991570984 validate +workshop_download_item 221100 1797720064 validate +workshop_download_item 221100 1734713776 validate +workshop_download_item 221100 1932611410 validate +workshop_download_item 221100 1623711988 validate +quit
+[2022-12-25 07:54:14] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:54:14] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:54:14] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:54:14] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:54:14] Checking for update on startup
+[2022-12-25 07:54:14] Checking for available updates...
+[2022-12-25 07:54:14] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:54:14] Manifest download: send request
+[2022-12-25 07:54:14] Manifest download: waiting for download to finish
+[2022-12-25 07:54:14] Manifest download: finished
+[2022-12-25 07:54:14] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:54:14] Nothing to do
+[2022-12-25 07:54:14] Verifying installation...
+[2022-12-25 07:54:14] Performing checksum verification of executable files
+[2022-12-25 07:54:14] Verification complete
+[2022-12-25 07:54:22] Shutdown
+
+
+[2022-12-25 07:54:22] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 07:54:22] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 2353998362 validate +workshop_download_item 221100 2692979668 validate +workshop_download_item 221100 2902744485 validate +workshop_download_item 221100 2834226077 validate +workshop_download_item 221100 2464526692 validate +workshop_download_item 221100 2458896948 validate +quit
+[2022-12-25 07:54:22] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 07:54:22] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:54:22] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 07:54:22] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 07:54:22] Checking for update on startup
+[2022-12-25 07:54:22] Checking for available updates...
+[2022-12-25 07:54:22] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 07:54:22] Manifest download: send request
+[2022-12-25 07:54:22] Manifest download: waiting for download to finish
+[2022-12-25 07:54:22] Manifest download: finished
+[2022-12-25 07:54:22] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 07:54:22] Nothing to do
+[2022-12-25 07:54:22] Verifying installation...
+[2022-12-25 07:54:22] Performing checksum verification of executable files
+[2022-12-25 07:54:22] Verification complete
+[2022-12-25 07:54:27] Shutdown
+
+
+[2022-12-25 08:03:55] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:03:55] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP +app_update 223350 -beta public validate +quit
+[2022-12-25 08:03:55] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:03:55] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:03:55] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:03:55] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:03:55] Checking for update on startup
+[2022-12-25 08:03:55] Checking for available updates...
+[2022-12-25 08:03:55] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:03:55] Manifest download: send request
+[2022-12-25 08:03:55] Manifest download: waiting for download to finish
+[2022-12-25 08:03:55] Manifest download: finished
+[2022-12-25 08:03:55] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:03:55] Nothing to do
+[2022-12-25 08:03:55] Verifying installation...
+[2022-12-25 08:03:55] Performing checksum verification of executable files
+[2022-12-25 08:03:55] Verification complete
+[2022-12-25 08:04:03] Shutdown
+
+
+[2022-12-25 08:04:03] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:04:03] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" @NoPromptForPassword 1 +login 42MonthsAfter GVrG&8SehSj5=HP +app_info_print 223350 +quit
+[2022-12-25 08:04:03] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:04:03] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:04:03] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:04:03] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:04:03] Checking for update on startup
+[2022-12-25 08:04:03] Checking for available updates...
+[2022-12-25 08:04:03] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:04:03] Manifest download: send request
+[2022-12-25 08:04:03] Manifest download: waiting for download to finish
+[2022-12-25 08:04:03] Manifest download: finished
+[2022-12-25 08:04:03] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:04:03] Nothing to do
+[2022-12-25 08:04:03] Verifying installation...
+[2022-12-25 08:04:03] Performing checksum verification of executable files
+[2022-12-25 08:04:03] Verification complete
+[2022-12-25 08:04:05] Shutdown
+
+
+[2022-12-25 08:04:05] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:04:05] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1602372402 validate +workshop_download_item 221100 1559212036 validate +workshop_download_item 221100 1564026768 validate +workshop_download_item 221100 1710977250 validate +workshop_download_item 221100 2794690371 validate +workshop_download_item 221100 1854626456 validate +workshop_download_item 221100 1646187754 validate +workshop_download_item 221100 1565871491 validate +workshop_download_item 221100 2545327648 validate +workshop_download_item 221100 2276010135 validate +quit
+[2022-12-25 08:04:05] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:04:05] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:04:05] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:04:05] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:04:05] Checking for update on startup
+[2022-12-25 08:04:05] Checking for available updates...
+[2022-12-25 08:04:05] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:04:06] Manifest download: send request
+[2022-12-25 08:04:06] Manifest download: waiting for download to finish
+[2022-12-25 08:04:06] Manifest download: finished
+[2022-12-25 08:04:06] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:04:06] Nothing to do
+[2022-12-25 08:04:06] Verifying installation...
+[2022-12-25 08:04:06] Performing checksum verification of executable files
+[2022-12-25 08:04:06] Verification complete
+[2022-12-25 08:04:15] Shutdown
+
+
+[2022-12-25 08:04:15] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:04:15] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1791033033 validate +workshop_download_item 221100 1819514788 validate +workshop_download_item 221100 2723807644 validate +workshop_download_item 221100 2757509117 validate +workshop_download_item 221100 1566911166 validate +workshop_download_item 221100 1991570984 validate +workshop_download_item 221100 1797720064 validate +workshop_download_item 221100 1734713776 validate +workshop_download_item 221100 1932611410 validate +workshop_download_item 221100 1623711988 validate +quit
+[2022-12-25 08:04:15] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:04:15] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:04:15] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:04:15] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:04:15] Checking for update on startup
+[2022-12-25 08:04:15] Checking for available updates...
+[2022-12-25 08:04:15] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:04:15] Manifest download: send request
+[2022-12-25 08:04:15] Manifest download: waiting for download to finish
+[2022-12-25 08:04:16] Manifest download: finished
+[2022-12-25 08:04:16] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:04:16] Nothing to do
+[2022-12-25 08:04:16] Verifying installation...
+[2022-12-25 08:04:16] Performing checksum verification of executable files
+[2022-12-25 08:04:16] Verification complete
+[2022-12-25 08:04:24] Shutdown
+
+
+[2022-12-25 08:04:24] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:04:24] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 2353998362 validate +workshop_download_item 221100 2692979668 validate +workshop_download_item 221100 2902744485 validate +workshop_download_item 221100 2834226077 validate +workshop_download_item 221100 2464526692 validate +workshop_download_item 221100 2458896948 validate +quit
+[2022-12-25 08:04:24] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:04:24] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:04:24] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:04:24] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:04:24] Checking for update on startup
+[2022-12-25 08:04:24] Checking for available updates...
+[2022-12-25 08:04:24] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:04:24] Manifest download: send request
+[2022-12-25 08:04:24] Manifest download: waiting for download to finish
+[2022-12-25 08:04:24] Manifest download: finished
+[2022-12-25 08:04:24] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:04:24] Nothing to do
+[2022-12-25 08:04:24] Verifying installation...
+[2022-12-25 08:04:24] Performing checksum verification of executable files
+[2022-12-25 08:04:24] Verification complete
+[2022-12-25 08:04:31] Shutdown
+
+
+[2022-12-25 08:13:56] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:13:56] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP +app_update 223350 -beta public validate +quit
+[2022-12-25 08:13:57] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:13:57] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:13:57] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:13:57] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:13:57] Checking for update on startup
+[2022-12-25 08:13:57] Checking for available updates...
+[2022-12-25 08:13:57] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:13:57] Manifest download: send request
+[2022-12-25 08:13:57] Manifest download: waiting for download to finish
+[2022-12-25 08:13:57] Manifest download: finished
+[2022-12-25 08:13:57] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:13:57] Nothing to do
+[2022-12-25 08:13:57] Verifying installation...
+[2022-12-25 08:13:57] Performing checksum verification of executable files
+[2022-12-25 08:13:57] Verification complete
+[2022-12-25 08:14:04] Shutdown
+
+
+[2022-12-25 08:14:04] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:14:04] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" @NoPromptForPassword 1 +login 42MonthsAfter GVrG&8SehSj5=HP +app_info_print 223350 +quit
+[2022-12-25 08:14:04] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:14:04] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:14:04] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:14:04] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:14:04] Checking for update on startup
+[2022-12-25 08:14:04] Checking for available updates...
+[2022-12-25 08:14:04] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:14:04] Manifest download: send request
+[2022-12-25 08:14:05] Manifest download: waiting for download to finish
+[2022-12-25 08:14:05] Manifest download: finished
+[2022-12-25 08:14:05] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:14:05] Nothing to do
+[2022-12-25 08:14:05] Verifying installation...
+[2022-12-25 08:14:05] Performing checksum verification of executable files
+[2022-12-25 08:14:05] Verification complete
+[2022-12-25 08:14:07] Shutdown
+
+
+[2022-12-25 08:14:07] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:14:07] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1602372402 validate +workshop_download_item 221100 1559212036 validate +workshop_download_item 221100 1564026768 validate +workshop_download_item 221100 1710977250 validate +workshop_download_item 221100 2794690371 validate +workshop_download_item 221100 1854626456 validate +workshop_download_item 221100 1646187754 validate +workshop_download_item 221100 1565871491 validate +workshop_download_item 221100 2545327648 validate +workshop_download_item 221100 2276010135 validate +quit
+[2022-12-25 08:14:07] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:14:07] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:14:07] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:14:07] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:14:07] Checking for update on startup
+[2022-12-25 08:14:07] Checking for available updates...
+[2022-12-25 08:14:07] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:14:07] Manifest download: send request
+[2022-12-25 08:14:07] Manifest download: waiting for download to finish
+[2022-12-25 08:14:08] Manifest download: finished
+[2022-12-25 08:14:08] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:14:08] Nothing to do
+[2022-12-25 08:14:08] Verifying installation...
+[2022-12-25 08:14:08] Performing checksum verification of executable files
+[2022-12-25 08:14:08] Verification complete
+[2022-12-25 08:14:15] Shutdown
+
+
+[2022-12-25 08:14:15] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:14:15] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1791033033 validate +workshop_download_item 221100 1819514788 validate +workshop_download_item 221100 2723807644 validate +workshop_download_item 221100 2757509117 validate +workshop_download_item 221100 1566911166 validate +workshop_download_item 221100 1991570984 validate +workshop_download_item 221100 1797720064 validate +workshop_download_item 221100 1734713776 validate +workshop_download_item 221100 1932611410 validate +workshop_download_item 221100 1623711988 validate +quit
+[2022-12-25 08:14:15] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:14:15] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:14:15] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:14:15] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:14:15] Checking for update on startup
+[2022-12-25 08:14:15] Checking for available updates...
+[2022-12-25 08:14:15] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:14:15] Manifest download: send request
+[2022-12-25 08:14:15] Manifest download: waiting for download to finish
+[2022-12-25 08:14:16] Manifest download: finished
+[2022-12-25 08:14:16] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:14:16] Nothing to do
+[2022-12-25 08:14:16] Verifying installation...
+[2022-12-25 08:14:16] Performing checksum verification of executable files
+[2022-12-25 08:14:16] Verification complete
+[2022-12-25 08:14:24] Shutdown
+
+
+[2022-12-25 08:14:24] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:14:24] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 2353998362 validate +workshop_download_item 221100 2692979668 validate +workshop_download_item 221100 2902744485 validate +workshop_download_item 221100 2834226077 validate +workshop_download_item 221100 2464526692 validate +workshop_download_item 221100 2458896948 validate +quit
+[2022-12-25 08:14:24] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:14:24] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:14:24] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:14:24] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:14:24] Checking for update on startup
+[2022-12-25 08:14:24] Checking for available updates...
+[2022-12-25 08:14:24] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:14:24] Manifest download: send request
+[2022-12-25 08:14:24] Manifest download: waiting for download to finish
+[2022-12-25 08:14:24] Manifest download: finished
+[2022-12-25 08:14:24] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:14:24] Nothing to do
+[2022-12-25 08:14:24] Verifying installation...
+[2022-12-25 08:14:24] Performing checksum verification of executable files
+[2022-12-25 08:14:24] Verification complete
+[2022-12-25 08:14:30] Shutdown
+
+
+[2022-12-25 08:23:58] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:23:58] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP +app_update 223350 -beta public validate +quit
+[2022-12-25 08:23:58] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:23:58] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:23:58] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:23:58] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:23:58] Checking for update on startup
+[2022-12-25 08:23:58] Checking for available updates...
+[2022-12-25 08:23:58] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:23:58] Manifest download: send request
+[2022-12-25 08:23:58] Manifest download: waiting for download to finish
+[2022-12-25 08:23:59] Manifest download: finished
+[2022-12-25 08:23:59] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:23:59] Nothing to do
+[2022-12-25 08:23:59] Verifying installation...
+[2022-12-25 08:23:59] Performing checksum verification of executable files
+[2022-12-25 08:23:59] Verification complete
+[2022-12-25 08:24:06] Shutdown
+
+
+[2022-12-25 08:24:06] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:24:06] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" @NoPromptForPassword 1 +login 42MonthsAfter GVrG&8SehSj5=HP +app_info_print 223350 +quit
+[2022-12-25 08:24:06] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:24:06] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:24:06] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:24:06] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:24:06] Checking for update on startup
+[2022-12-25 08:24:06] Checking for available updates...
+[2022-12-25 08:24:06] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:24:06] Manifest download: send request
+[2022-12-25 08:24:06] Manifest download: waiting for download to finish
+[2022-12-25 08:24:07] Manifest download: finished
+[2022-12-25 08:24:07] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:24:07] Nothing to do
+[2022-12-25 08:24:07] Verifying installation...
+[2022-12-25 08:24:07] Performing checksum verification of executable files
+[2022-12-25 08:24:07] Verification complete
+[2022-12-25 08:24:09] Shutdown
+
+
+[2022-12-25 08:24:09] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:24:09] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1602372402 validate +workshop_download_item 221100 1559212036 validate +workshop_download_item 221100 1564026768 validate +workshop_download_item 221100 1710977250 validate +workshop_download_item 221100 2794690371 validate +workshop_download_item 221100 1854626456 validate +workshop_download_item 221100 1646187754 validate +workshop_download_item 221100 1565871491 validate +workshop_download_item 221100 2545327648 validate +workshop_download_item 221100 2276010135 validate +quit
+[2022-12-25 08:24:09] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:24:09] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:24:09] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:24:09] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:24:09] Checking for update on startup
+[2022-12-25 08:24:09] Checking for available updates...
+[2022-12-25 08:24:09] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:24:09] Manifest download: send request
+[2022-12-25 08:24:09] Manifest download: waiting for download to finish
+[2022-12-25 08:24:09] Manifest download: finished
+[2022-12-25 08:24:09] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:24:09] Nothing to do
+[2022-12-25 08:24:09] Verifying installation...
+[2022-12-25 08:24:09] Performing checksum verification of executable files
+[2022-12-25 08:24:09] Verification complete
+[2022-12-25 08:24:18] Shutdown
+
+
+[2022-12-25 08:24:18] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:24:18] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 1791033033 validate +workshop_download_item 221100 1819514788 validate +workshop_download_item 221100 2723807644 validate +workshop_download_item 221100 2757509117 validate +workshop_download_item 221100 1566911166 validate +workshop_download_item 221100 1991570984 validate +workshop_download_item 221100 1797720064 validate +workshop_download_item 221100 1734713776 validate +workshop_download_item 221100 1932611410 validate +workshop_download_item 221100 1623711988 validate +quit
+[2022-12-25 08:24:18] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:24:18] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:24:18] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:24:18] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:24:18] Checking for update on startup
+[2022-12-25 08:24:18] Checking for available updates...
+[2022-12-25 08:24:18] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:24:18] Manifest download: send request
+[2022-12-25 08:24:18] Manifest download: waiting for download to finish
+[2022-12-25 08:24:18] Manifest download: finished
+[2022-12-25 08:24:18] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:24:18] Nothing to do
+[2022-12-25 08:24:18] Verifying installation...
+[2022-12-25 08:24:18] Performing checksum verification of executable files
+[2022-12-25 08:24:18] Verification complete
+[2022-12-25 08:24:27] Shutdown
+
+
+[2022-12-25 08:24:27] Startup - updater built Dec  1 2022 14:38:54
+[2022-12-25 08:24:27] Startup - Steam Client launched with: "C:\Users\Administrator\Documents\Abandoned PvE/steamcmd/steamcmd.exe" +login 42MonthsAfter GVrG&8SehSj5=HP + +workshop_download_item 221100 2353998362 validate +workshop_download_item 221100 2692979668 validate +workshop_download_item 221100 2902744485 validate +workshop_download_item 221100 2834226077 validate +workshop_download_item 221100 2464526692 validate +workshop_download_item 221100 2458896948 validate +quit
+[2022-12-25 08:24:27] Using the following download hosts for Public, Realm steamglobal
+[2022-12-25 08:24:27] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:24:27] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2022-12-25 08:24:27] 3. http://media.steampowered.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2022-12-25 08:24:27] Checking for update on startup
+[2022-12-25 08:24:27] Checking for available updates...
+[2022-12-25 08:24:27] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2022-12-25 08:24:27] Manifest download: send request
+[2022-12-25 08:24:27] Manifest download: waiting for download to finish
+[2022-12-25 08:24:27] Manifest download: finished
+[2022-12-25 08:24:27] Download skipped: /steam_cmd_win32 version 1669935972, installed version 1669935972, existing pending version 0
+[2022-12-25 08:24:27] Nothing to do
+[2022-12-25 08:24:27] Verifying installation...
+[2022-12-25 08:24:27] Performing checksum verification of executable files
+[2022-12-25 08:24:28] Verification complete
+[2022-12-25 08:24:33] Shutdown

@@ -1,0 +1,185 @@
+
+
+[2022-12-19 13:50:53] Failed to read store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf.tmp'
+[2022-12-19 13:50:54] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-19 13:50:54] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 06:26:17] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 06:26:18] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 06:26:20] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 06:36:35] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 06:36:36] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 06:40:17] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 06:40:18] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 06:43:13] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 06:43:14] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 06:47:57] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 06:47:58] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 06:51:24] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 06:51:25] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 06:51:26] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 06:57:13] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 06:57:14] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 07:02:47] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 07:02:48] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 11:47:54] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 11:47:55] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 12:53:42] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 12:53:43] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 13:06:32] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 13:06:33] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 13:06:35] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 13:42:05] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 13:42:06] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 13:42:06] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:02:37] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:02:39] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:03:00] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:03:23] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:03:44] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:04:32] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:04:53] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:06:09] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:06:17] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:06:38] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:06:40] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:07:16] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:12:41] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:13:02] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:19:20] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:19:25] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:24:19] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:24:28] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 14:24:43] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 17:10:48] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 17:10:48] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 17:10:49] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 18:05:21] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 18:05:22] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-20 18:08:28] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-20 18:08:29] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-20 18:08:30] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-21 06:36:38] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-21 06:36:39] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-21 07:14:07] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-21 07:14:07] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-21 07:14:08] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-21 07:33:08] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-21 07:33:09] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-21 07:33:10] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-21 09:45:29] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-21 09:45:30] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-21 15:18:20] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-21 15:18:21] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-21 15:18:22] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-21 15:27:43] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-21 15:27:45] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-21 21:00:18] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-21 21:00:19] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-22 03:00:18] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-22 03:00:19] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-22 09:00:19] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-22 09:00:20] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-22 09:00:21] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-22 15:00:18] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-22 15:00:19] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-22 21:00:18] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-22 21:00:19] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-22 21:00:21] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-23 03:00:18] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-23 03:00:19] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-23 03:00:19] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-23 09:00:18] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-23 09:00:19] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-23 09:00:21] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-23 15:00:19] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-23 15:00:20] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-23 21:00:20] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-23 21:00:20] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-23 21:00:21] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-24 03:00:19] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-24 03:00:20] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-24 05:50:46] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-24 05:50:47] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-24 09:00:19] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-24 09:00:20] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-24 09:00:21] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-24 15:00:19] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-24 15:00:20] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-24 15:00:21] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-24 21:00:19] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-24 21:00:20] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+[2022-12-24 21:00:21] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'
+
+
+[2022-12-25 03:00:19] Loaded store 'install' from 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf' successfully
+[2022-12-25 03:00:20] Flushed store 'install' to 'C:\Users\Administrator\Documents\Abandoned PvE\servers\0\config\config.vdf'

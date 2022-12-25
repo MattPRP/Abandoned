@@ -1,0 +1,448 @@
+
+
+[2022-12-25 07:54:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:08] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:08] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:09] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:09] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:09] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:09] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:10] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:11] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:11] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:11] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:11] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:12] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:12] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 07:54:15] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 07:54:15] Change number 17193307->17193307, apps: 0/0, packages: 0/0
+[2022-12-25 07:54:15] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:16] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 07:54:16] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:16] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:16] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:16] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:16] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:16] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:17] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:17] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:18] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:18] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:18] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:18] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:18] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:18] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:19] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:19] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:19] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:19] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:20] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:20] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:20] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:20] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:20] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:21] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:21] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:21] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:21] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 07:54:23] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 07:54:23] Apps changed: 
+[2022-12-25 07:54:23] Change number 17193307->17193308, apps: 0/1, packages: 0/0
+[2022-12-25 07:54:23] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:23] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 07:54:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:24] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:24] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:25] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:25] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:26] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:26] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 07:54:27] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 07:54:27] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 07:54:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:03:56] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:03:56] Packages changed: 
+[2022-12-25 08:03:56] Apps changed: 
+[2022-12-25 08:03:56] Change number 17193308->17193334, apps: 0/18, packages: 0/1
+[2022-12-25 08:03:57] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:03:57] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:03:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:03:57] RequestAppInfoUpdate: AppIDs 223350
+[2022-12-25 08:03:57] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:03:57] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:04:04] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:04:04] Apps changed: 
+[2022-12-25 08:04:04] Change number 17193334->17193335, apps: 0/1, packages: 0/0
+[2022-12-25 08:04:04] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:05] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:04:05] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:04:07] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:04:07] Change number 17193335->17193335, apps: 0/0, packages: 0/0
+[2022-12-25 08:04:07] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:07] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:04:07] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:07] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:08] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:08] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:08] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:09] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:09] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:09] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:09] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:09] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:10] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:10] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:11] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:11] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:11] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:11] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:12] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:13] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:13] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:04:17] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:04:17] Change number 17193335->17193335, apps: 0/0, packages: 0/0
+[2022-12-25 08:04:17] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:17] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:04:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:17] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:17] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:18] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:18] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:18] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:18] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:18] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:19] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:19] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:20] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:20] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:20] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:20] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:20] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:21] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:21] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:21] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:21] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:21] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:21] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:22] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:22] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:04:25] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:04:26] Apps changed: 
+[2022-12-25 08:04:26] Change number 17193335->17193336, apps: 0/1, packages: 0/0
+[2022-12-25 08:04:26] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:26] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:04:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:26] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:26] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:27] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:27] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:27] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:27] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:28] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:28] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:28] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:28] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:04:29] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:04:29] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:04:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:13:58] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:13:59] Packages changed: 
+[2022-12-25 08:13:59] Apps changed: 
+[2022-12-25 08:13:59] Change number 17193336->17193418, apps: 0/76, packages: 0/4
+[2022-12-25 08:13:59] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:13:59] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:13:59] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:13:59] RequestAppInfoUpdate: AppIDs 223350
+[2022-12-25 08:13:59] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:13:59] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:14:06] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:14:06] Change number 17193418->17193418, apps: 0/0, packages: 0/0
+[2022-12-25 08:14:06] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:06] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:14:06] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:14:09] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:14:09] Change number 17193418->17193418, apps: 0/0, packages: 0/0
+[2022-12-25 08:14:09] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:09] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:14:09] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:09] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:09] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:10] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:10] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:10] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:11] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:11] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:11] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:12] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:12] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:13] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:13] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:13] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:13] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:14] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:14] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:14] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:14] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:14] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:14] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:14:17] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:14:17] Change number 17193418->17193418, apps: 0/0, packages: 0/0
+[2022-12-25 08:14:17] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:17] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:14:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:17] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:17] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:17] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:18] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:18] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:18] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:18] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:18] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:19] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:19] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:19] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:20] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:20] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:20] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:20] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:20] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:20] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:21] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:21] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:21] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:21] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:21] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:21] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:22] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:22] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:14:25] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:14:25] Change number 17193418->17193418, apps: 0/0, packages: 0/0
+[2022-12-25 08:14:26] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:26] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:14:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:26] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:26] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:26] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:27] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:27] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:27] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:28] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:28] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:28] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:28] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:14:29] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:14:29] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:14:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:24:00] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:24:00] Packages changed: 
+[2022-12-25 08:24:00] Apps changed: 
+[2022-12-25 08:24:00] Change number 17193418->17193438, apps: 0/18, packages: 0/2
+[2022-12-25 08:24:00] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:00] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:24:00] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:00] RequestAppInfoUpdate: AppIDs 223350
+[2022-12-25 08:24:00] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:01] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:24:07] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:24:08] Apps changed: 
+[2022-12-25 08:24:08] Change number 17193438->17193439, apps: 0/2, packages: 0/0
+[2022-12-25 08:24:08] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:08] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:24:08] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:24:10] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:24:10] Change number 17193439->17193439, apps: 0/0, packages: 0/0
+[2022-12-25 08:24:10] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:11] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:24:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:11] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:11] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:11] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:11] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:11] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:12] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:13] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:13] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:13] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:13] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:14] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:14] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:14] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:14] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:14] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:15] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:15] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:15] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:15] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:15] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:15] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:16] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:16] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:16] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:16] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:16] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:24:19] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:24:19] Change number 17193439->17193439, apps: 0/0, packages: 0/0
+[2022-12-25 08:24:19] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:20] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:24:20] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:20] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:20] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:20] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:20] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:20] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:20] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:21] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:21] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:21] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:22] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:22] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:22] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:23] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:23] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:23] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:23] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:24] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:24] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:25] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2022-12-25 08:24:28] RequestAppInfoUpdate: AppIDs 7
+[2022-12-25 08:24:28] Apps changed: 
+[2022-12-25 08:24:28] Change number 17193439->17193440, apps: 0/1, packages: 0/0
+[2022-12-25 08:24:29] Requesting 2 apps, 2 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:29] Requested 1 app access tokens, 0 received, 1 denied
+[2022-12-25 08:24:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:29] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:29] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:29] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:30] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:30] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:30] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:30] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:30] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:31] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:31] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:31] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:31] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2022-12-25 08:24:32] RequestAppInfoUpdate: AppIDs 221100
+[2022-12-25 08:24:32] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2022-12-25 08:24:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)

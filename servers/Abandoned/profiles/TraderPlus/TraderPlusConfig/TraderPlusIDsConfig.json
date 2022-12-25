@@ -1,0 +1,122 @@
+{
+    "Version": "2.3",
+    "IDs": [
+        {
+            "Id": 0,
+            "Categories": [
+                "Beverages",
+                "Packaged Food",
+                "Fruit & Veg",
+                "Meat",
+                "Fish",
+                "Fungus",
+                "Pelts",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 1,
+            "Categories": [
+                "Civilan Cars",
+                "Sport Cars",
+                "Luxury Cars",
+                "Civilian Trucks + SUVs",
+                "Military Trucks + SUVs",
+                "Luxury Trucks + SUVs",
+                "Public Service Vehicles",
+                "Vanilla Auto Parts",
+                "Vanilla Vehicle Components",
+                "Heli Parts",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 2,
+            "Categories": [
+                "Tools",
+                "Gardening",
+                "Base Building",
+                "Base Decor",
+                "Flags",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 3,
+            "Categories": [
+                "Good Good",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 4,
+            "Categories": [
+                "Hand Guns",
+                "Bows",
+                "Shotguns",
+                "Sub Machine Guns",
+                "Long Rifles",
+                "Assault Rifles",
+                "Sniper Rifles",
+                "Just Mags",
+                "Buttstocks",
+                "Suppressors",
+                "Compensators",
+                "Optics",
+                "Handguards & Rails",
+                "Bayonets",
+                "Melee & Blades",
+                "Weapon Lights",
+                "Weapon Care",
+                "Ammo",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 5,
+            "Categories": [
+                "Bags",
+                "Gear",
+                "Pouches",
+                "Belts",
+                "Vests",
+                "Ghillies",
+                "Patches & Armbands",
+                "Camping & Survival",
+                "Hunting & Fishing",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 6,
+            "Categories": [
+                "Electronics",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 7,
+            "Categories": [
+                "Medical",
+                "Protective Gear",
+                "Money Exchange"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }
+    ]
+}

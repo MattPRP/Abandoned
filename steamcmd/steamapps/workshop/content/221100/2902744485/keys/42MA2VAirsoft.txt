@@ -1,0 +1,10 @@
+Authority:  42MA2VAirsoft
+Creation:   9/2/2022 11:55:37 PM (by HELIUS\rylic)
+
+== PRIVATE KEY ==
+File: C:\Users\rylic\Desktop\AirsoftSigns\keys\42MA2VAirsoft.biprivatekey
+MD5: d067fcb62a507cded387d60f67e4ba96
+== PUBLIC KEY ==
+File: C:\Users\rylic\Desktop\AirsoftSigns\keys\42MA2VAirsoft.bikey
+MD5: 74cacc0fb0043e130a8b1996a949a05b
+

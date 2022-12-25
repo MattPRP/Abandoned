@@ -1,0 +1,23 @@
+{
+    "VehicleName": "URAL_4320",
+    "DisplayName": "URAL_4320",
+    "Parts": [
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Doors_Driver",
+        "URAL_4320_Doors_coDriver",
+        "URAL_4320_Doors_hood",
+        "URAL_4320_Doors_trunk",
+        "URAL_4320_tent",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,38 @@
+************************** 2022-12-24T11:00:19+00:00 **************************
+2022-12-24T11:00:28+00:00 | [INFO	] Server up (GameLabs v1.830)
+2022-12-24T11:00:28+00:00 | [INFO	] Experimental speed check is enabled
+2022-12-24T11:00:29+00:00 | [WARN	] "ActionDismantleBBP" has been added as monitored action by a third party application
+2022-12-24T12:00:29+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2022-12-24T12:00:29+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-12-24T12:00:29+00:00 | [WARN	] RegisterAsync re-authorized
+2022-12-24T12:08:34+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2022-12-24T12:08:34+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-12-24T12:08:34+00:00 | [WARN	] RegisterAsync re-authorized
+2022-12-24T12:14:10+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2022-12-24T12:14:10+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-12-24T12:14:10+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=1869.53u, unitsPerSecond=747.812 [threshold=8, inVehicle=0, triggers=1])
+2022-12-24T12:14:10+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-12-24T12:14:10+00:00 | [WARN	] ****************************************
+2022-12-24T13:08:39+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2022-12-24T13:08:39+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2022-12-24T13:08:40+00:00 | [WARN	] RegisterAsync re-authorized
+2022-12-24T13:10:54+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2022-12-24T13:10:59+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2022-12-24T13:11:04+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2022-12-24T13:11:09+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2022-12-24T13:11:14+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2022-12-24T13:11:19+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2022-12-24T13:11:24+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2022-12-24T13:11:29+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2022-12-24T13:41:20+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2022-12-24T13:41:20+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-12-24T13:41:20+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=2537.91u, unitsPerSecond=1015.16 [threshold=8, inVehicle=0, triggers=2])
+2022-12-24T13:41:20+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-12-24T13:41:20+00:00 | [WARN	] ****************************************
+2022-12-24T13:43:25+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2022-12-24T13:43:25+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-12-24T13:43:25+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561198036774377, distance=248.5u, unitsPerSecond=99.3999 [threshold=8, inVehicle=0, triggers=3])
+2022-12-24T13:43:25+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2022-12-24T13:43:25+00:00 | [WARN	] ****************************************
+2022-12-24T13:50:27+00:00 | [INFO	] (Reporter) Disabled
+2022-12-24T13:50:27+00:00 | [INFO	] (Core) Attempting graceful exit

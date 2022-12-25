@@ -1,0 +1,10 @@
+Authority:  42MABearBillboards
+Creation:   9/9/2022 8:24:42 PM (by HELIUS\rylic)
+
+== PRIVATE KEY ==
+File: C:\Users\rylic\Desktop\BearBillboard\keys\42MABearBillboards.biprivatekey
+MD5: 1cea6611633edc77f37e519e98c6a3df
+== PUBLIC KEY ==
+File: C:\Users\rylic\Desktop\BearBillboard\keys\42MABearBillboards.bikey
+MD5: 45ceb750ce8c0b29279136a2f8f0dacf
+

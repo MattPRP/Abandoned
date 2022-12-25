@@ -1,0 +1,33 @@
+{
+    "CategoryName": "Medical",
+    "Products": [
+        "BandageDressing 11 0",
+        "DisinfectantAlcohol 12 0",
+        "DisinfectantSpray 12 0",
+        "IodineTincture 12 0",
+        "PurificationTablets 12 0",
+        "CharcoalTablets 12 0",
+        "PainkillerTablets 12 0",
+        "TetracyclineAntibiotics 10 0",
+        "VitaminBottle 12 0",
+        "Epinephrine 12 0",
+        "Morphine 14 0",
+        "BloodTestKit 13 0",
+        "StartKitIV 20 0",
+        "SalineBag 13 0",
+        "BloodBagEmpty 18 0",
+        "Mass_IFAK_TAN 12 0",
+        "Mass_IFAK_ODG 12 0",
+        "Mass_IFAK_BLACK 12 0",
+        "Mass_IFAK_BDU 12 0",
+        "Mass_IFAK_PartizanM 12 0",
+        "Thermometer 12 0",
+        "Zen_Virus_Cure_Injector 12 0",
+        "Zen_Virus_AntiBodiesVial 12 0",
+        "Zen_Virus_Cure_Petridish 12 0",
+        "Zen_Virus_Cure_Microscope 12 0",
+        "Syringe 12 0",
+        "FirstAidKit 12 0",
+        "Paper 1 0"
+    ]
+}

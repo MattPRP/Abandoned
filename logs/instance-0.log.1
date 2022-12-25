@@ -1,0 +1,38 @@
+2022-12-19 13:50:20,878 [DEBUG] | Initilizing omega config
+2022-12-19 13:50:20,878 [DEBUG] | {u'mods': [], u'general': {u'large_logs_byte': 1073741824, u'logrotate': True, u'pre_execution_script': {u'path': u'', u'enabled': False, u'exectuion_time_limit': 10}, u'autostart': True, u'keep_logs': -1, u'delete_large_logs': True}, u'process': {u'grace_period': 15, u'elevate_level': 2, u'low_cpu_timeout_override': 20, u'low_cpu_threshold': 5, u'detection': {u'retries': 60, u'executable': u'DayZServer_x64.exe', u'enabled': False}, u'elevate': False, u'affinity': {u'mask': -1, u'enabled': False}}, u'server': {u'executable': u'DayZServer_x64.exe', u'recovery': True, u'profilespath': u'profiles', u'launch_parameters': [u'-adminlog', u'-freezecheck', u'-dologs'], u'gameport': 2302, u'shadow_interval': 90, u'use_modserver': False}, u'debug': {u'file_watcher': False, u'log': False}, u'cftools': {u'firewall_lockdown': False, u'service_api_key': u'', u'sync_qp_list': False, u'transmit_logs': False, u'service_id': u'', u'report_health': False}, u'backup': {u'scheduled': True, u'keep_time': 14, u'startup': True, u'scheduled_interval_enforcement': True, u'path': u'backups', u'scheduled_interval': 3600}}
+2022-12-19 13:50:20,881 [DEBUG] | Detecting customized files
+2022-12-19 13:50:21,138 [DEBUG] | Checking API availability
+2022-12-19 13:50:21,138 [DEBUG] | Initilizing server config
+2022-12-19 13:50:21,138 [DEBUG] | Resetting internal values
+2022-12-19 13:50:21,138 [DEBUG] | Detected RCon configuration: {'restrict': False, 'password': '58ab2db612f4f94b4bcfa3d4feb97696', 'port': 2305}
+2022-12-19 13:50:21,147 [INFO] | Initialized | Server version: 1.19.155542
+2022-12-19 13:50:50,046 [DEBUG] | Creating startup backup
+2022-12-19 13:50:50,046 [DEBUG] | Initiating complete backup (./servers/0/mpmissions/dayzOffline.chernarusplus/storage_1/data)
+2022-12-19 13:50:50,048 [DEBUG] | Saving backup to ./servers/0/backups/1671486650
+2022-12-19 13:50:50,049 [DEBUG] | Backup complete
+2022-12-19 13:50:50,051 [DEBUG] | Moving logs to ./servers/0/logs/1671486650
+2022-12-19 13:50:50,055 [DEBUG] | Deleted 0 expired backups
+2022-12-19 13:50:50,055 [DEBUG] | Verifying mods
+2022-12-19 13:50:50,065 [DEBUG] | Launch command: ./servers/0/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2302 -profiles=profiles  -adminlog -freezecheck -dologs
+2022-12-19 13:50:50,094 [DEBUG] | Launched process on PID: 2004
+2022-12-19 13:50:50,095 [INFO] | Server process running
+2022-12-19 13:50:51,096 [ERROR] | No active persistence found, cant create shadow
+2022-12-19 13:50:55,104 [DEBUG] | [FW2-RPT] new candidate DayZServer_x64_2022-12-19_13-50-50.RPT (1671486654.97 >? 1671486650.1)
+2022-12-19 13:50:55,104 [DEBUG] | [FW2-RPT] Starting with ./servers/0/profiles/DayZServer_x64_2022-12-19_13-50-50.RPT
+2022-12-19 13:50:55,269 [DEBUG] | Server using 27016 as SteamQueryPort
+2022-12-19 13:50:55,269 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671486650.3 >? 1671486650.1)
+2022-12-19 13:50:55,269 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671486650.3 >? 1671486650.1)
+2022-12-19 13:50:55,269 [DEBUG] | [FW2-ADM] Starting with ./servers/0/profiles/DayZServer_x64.ADM
+2022-12-19 13:52:04,036 [DEBUG] | [FW2-ADM] shutdown took 0s
+2022-12-19 13:52:04,138 [DEBUG] | [FW2-RPT] shutdown took 0s
+2022-12-19 13:52:04,138 [DEBUG] | [Shutdown] RCon authenticated
+2022-12-19 13:52:04,138 [DEBUG] | [Shutdown] RCon listener starting...
+2022-12-19 13:52:04,138 [DEBUG] | [Shutdown] RCon listener started
+2022-12-19 13:52:04,138 [DEBUG] | [Shutdown] Sent RCon lock command
+2022-12-19 13:52:14,144 [DEBUG] | [Shutdown] Sent RCon kick delayed command
+2022-12-19 13:52:20,145 [DEBUG] | [Shutdown] Sent RCon shutdown command
+2022-12-19 13:52:20,145 [DEBUG] | [Shutdown] Completed
+2022-12-19 13:52:23,418 [WARNING] | Abnormal memory depletion detected
+2022-12-19 13:52:24,430 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (False, 8.35, 2.01600003242)
+2022-12-19 13:52:25,444 [ERROR] | Server PID could not be accessed.
+2022-12-19 13:52:30,153 [DEBUG] | [Shutdown] RCon listener exited

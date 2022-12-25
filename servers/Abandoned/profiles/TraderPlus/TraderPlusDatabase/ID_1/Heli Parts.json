@@ -1,0 +1,15 @@
+{
+    "CategoryName": "Heli Parts",
+    "Products": [
+        "RFFSHeli_hydraulic_fluid 10 0", 
+        "RFFSHeli_batterycharger 10 0",  
+        "RFFSHeli_aviation_toolbox 10 0",
+        "RFFSHeli_igniter_plug 10 0",    
+        "RFFSHeli_hydraulic_hoses 10 0", 
+        "RFFSHeli_wiring_harness 10 0",  
+        "RFFSHeli_aviation_battery 10 0",
+        "RFFSHeli_flight_case_blue 10 0",
+        "RFFSHeli_flight_case 10 0",     
+        "RFFSHeli_flight_case_red 10 0" 
+    ]
+}

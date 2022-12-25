@@ -1,0 +1,546 @@
+2022-12-20 06:25:45,842 [DEBUG] | Initilizing omega config
+2022-12-20 06:25:45,849 [DEBUG] | {u'mods': [], u'general': {u'large_logs_byte': 1073741824, u'logrotate': True, u'pre_execution_script': {u'path': u'', u'enabled': False, u'exectuion_time_limit': 10}, u'autostart': True, u'keep_logs': -1, u'delete_large_logs': True}, u'process': {u'grace_period': 15, u'elevate_level': 2, u'low_cpu_timeout_override': 20, u'low_cpu_threshold': 5, u'detection': {u'retries': 60, u'executable': u'DayZServer_x64.exe', u'enabled': False}, u'elevate': False, u'affinity': {u'mask': -1, u'enabled': False}}, u'server': {u'executable': u'DayZServer_x64.exe', u'recovery': True, u'profilespath': u'profiles', u'launch_parameters': [u'-adminlog', u'-freezecheck', u'-dologs'], u'gameport': 2302, u'shadow_interval': 90, u'use_modserver': False}, u'debug': {u'file_watcher': False, u'log': False}, u'cftools': {u'firewall_lockdown': False, u'service_api_key': u'', u'sync_qp_list': False, u'transmit_logs': False, u'service_id': u'', u'report_health': False}, u'backup': {u'scheduled': True, u'keep_time': 14, u'startup': True, u'scheduled_interval_enforcement': True, u'path': u'backups', u'scheduled_interval': 3600}}
+2022-12-20 06:25:45,849 [DEBUG] | Detecting customized files
+2022-12-20 06:25:47,128 [DEBUG] | Checking API availability
+2022-12-20 06:25:47,128 [DEBUG] | Initilizing server config
+2022-12-20 06:25:47,135 [DEBUG] | Resetting internal values
+2022-12-20 06:25:47,135 [DEBUG] | Detected RCon configuration: {'restrict': False, 'password': '58ab2db612f4f94b4bcfa3d4feb97696', 'port': 2305}
+2022-12-20 06:25:47,135 [INFO] | Initialized | Server version: 1.19.155542
+2022-12-20 06:26:13,476 [DEBUG] | Creating startup backup
+2022-12-20 06:26:13,476 [DEBUG] | Initiating complete backup (./servers/0/mpmissions/dayzOffline.chernarusplus/storage_1/data)
+2022-12-20 06:26:13,476 [DEBUG] | Saving backup to ./servers/0/backups/1671546373
+2022-12-20 06:26:13,532 [DEBUG] | Backup complete
+2022-12-20 06:26:13,532 [DEBUG] | Moving logs to ./servers/0/logs/1671546373
+2022-12-20 06:26:13,532 [DEBUG] | [logrotate] moved DayZServer_x64.ADM
+2022-12-20 06:26:13,532 [DEBUG] | [logrotate] moved DayZServer_x64_2022-12-19_13-50-50.RPT
+2022-12-20 06:26:13,532 [DEBUG] | [logrotate] moved script_2022-12-19_13-50-51.log
+2022-12-20 06:26:13,532 [DEBUG] | [logrotate] moved serverconsole.log
+2022-12-20 06:26:13,532 [DEBUG] | Deleted 0 expired backups
+2022-12-20 06:26:13,532 [DEBUG] | Verifying mods
+2022-12-20 06:26:13,532 [DEBUG] | Launch command: ./servers/0/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2302 -profiles=profiles  -adminlog -freezecheck -dologs
+2022-12-20 06:26:13,555 [DEBUG] | Launched process on PID: 720
+2022-12-20 06:26:13,555 [INFO] | Server process running
+2022-12-20 06:26:18,565 [DEBUG] | [FW2-RPT] new candidate DayZServer_x64_2022-12-20_06-26-13.RPT (1671546378.56 >? 1671546373.56)
+2022-12-20 06:26:18,565 [DEBUG] | [FW2-RPT] Starting with ./servers/0/profiles/DayZServer_x64_2022-12-20_06-26-13.RPT
+2022-12-20 06:26:18,734 [DEBUG] | Server using 27016 as SteamQueryPort
+2022-12-20 06:26:18,743 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671546373.78 >? 1671546373.56)
+2022-12-20 06:26:18,743 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671546373.78 >? 1671546373.56)
+2022-12-20 06:26:18,743 [DEBUG] | [FW2-ADM] Starting with ./servers/0/profiles/DayZServer_x64.ADM
+2022-12-20 06:29:29,440 [DEBUG] | [FW2-ADM] shutdown took 0s
+2022-12-20 06:29:29,520 [DEBUG] | [FW2-RPT] shutdown took 0s
+2022-12-20 06:29:29,520 [DEBUG] | [Shutdown] RCon authenticated
+2022-12-20 06:29:29,522 [DEBUG] | [Shutdown] RCon listener starting...
+2022-12-20 06:29:29,522 [DEBUG] | [Shutdown] RCon listener started
+2022-12-20 06:29:29,522 [DEBUG] | [Shutdown] Sent RCon lock command
+2022-12-20 06:29:39,532 [DEBUG] | [Shutdown] Sent RCon kick delayed command
+2022-12-20 06:29:45,533 [DEBUG] | [Shutdown] Sent RCon shutdown command
+2022-12-20 06:29:45,533 [DEBUG] | [Shutdown] Completed
+2022-12-20 06:29:47,226 [WARNING] | Abnormal memory depletion detected
+2022-12-20 06:29:49,233 [ERROR] | Server PID could not be accessed.
+2022-12-20 06:29:55,536 [DEBUG] | [Shutdown] RCon listener exited
+2022-12-20 06:36:05,316 [DEBUG] | Creating startup backup
+2022-12-20 06:36:05,318 [DEBUG] | Initiating complete backup (./servers/0/mpmissions/empty.deerisle/storage_1/data)
+2022-12-20 06:36:05,318 [DEBUG] | Saving backup to ./servers/0/backups/1671546965
+2022-12-20 06:36:05,318 [DEBUG] | Backup complete
+2022-12-20 06:36:05,319 [DEBUG] | Moving logs to ./servers/0/logs/1671546965
+2022-12-20 06:36:05,319 [DEBUG] | [logrotate] moved DayZServer_x64.ADM
+2022-12-20 06:36:05,319 [DEBUG] | [logrotate] moved DayZServer_x64_2022-12-20_06-26-13.RPT
+2022-12-20 06:36:05,319 [DEBUG] | [logrotate] moved DayZServer_x64_2022_12_20_062613781.ADM
+2022-12-20 06:36:05,319 [DEBUG] | [logrotate] moved script_2022-12-20_06-26-15.log
+2022-12-20 06:36:05,319 [DEBUG] | [logrotate] moved serverconsole.log
+2022-12-20 06:36:05,319 [DEBUG] | Deleted 0 expired backups
+2022-12-20 06:36:05,319 [DEBUG] | Verifying mods
+2022-12-20 06:36:05,321 [DEBUG] | Creating ./servers/0/@DeerIsle
+2022-12-20 06:36:10,305 [DEBUG] | Installing key(s) for 1602372402
+2022-12-20 06:36:10,305 [DEBUG] | Installed key CypeRevenge.bikey for 1602372402
+2022-12-20 06:36:10,305 [DEBUG] | Installed key deerisle46.bikey for 1602372402
+2022-12-20 06:36:10,306 [DEBUG] | Installed key deerisle5a.bikey for 1602372402
+2022-12-20 06:36:10,306 [DEBUG] | Creating ./servers/0/@CF
+2022-12-20 06:36:10,312 [DEBUG] | Installing key(s) for 1559212036
+2022-12-20 06:36:10,312 [DEBUG] | Installed key Jacob_Mango_V3.bikey for 1559212036
+2022-12-20 06:36:10,313 [DEBUG] | Creating ./servers/0/@Community-Online-Tools
+2022-12-20 06:36:10,319 [DEBUG] | Installing key(s) for 1564026768
+2022-12-20 06:36:10,319 [DEBUG] | Installed key Jacob_Mango_V3.bikey for 1564026768
+2022-12-20 06:36:10,322 [DEBUG] | Launch command: ./servers/0/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2302 -profiles=profiles  -adminlog -freezecheck -dologs "-mod=@DeerIsle;@CF;@Community-Online-Tools;"
+2022-12-20 06:36:10,325 [DEBUG] | Launched process on PID: 1296
+2022-12-20 06:36:10,325 [INFO] | Server process running
+2022-12-20 06:36:10,328 [DEBUG] | Elevated process to real time
+2022-12-20 06:36:11,328 [ERROR] | No active persistence found, cant create shadow
+2022-12-20 06:36:12,331 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (1.6, 0.13, 2.00400018692)
+2022-12-20 06:36:14,332 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (0.0, 0.0, 4.00600004196)
+2022-12-20 06:36:15,326 [DEBUG] | [FW2-RPT] new candidate DayZServer_x64_2022-12-20_06-36-10.RPT (1671546971.36 >? 1671546970.33)
+2022-12-20 06:36:15,326 [DEBUG] | [FW2-RPT] Starting with ./servers/0/profiles/DayZServer_x64_2022-12-20_06-36-10.RPT
+2022-12-20 06:36:16,334 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (0.0, 0.0, 6.0070002079)
+2022-12-20 06:36:18,335 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (0.0, 0.0, 8.00800013542)
+2022-12-20 06:36:20,338 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (0.0, 0.0, 10.0110001564)
+2022-12-20 06:36:22,342 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (0.0, 0.0, 12.0150001049)
+2022-12-20 06:36:24,357 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (0.0, 0.0, 14.0300002098)
+2022-12-20 06:36:25,365 [ERROR] | Server PID could not be accessed.
+2022-12-20 06:36:25,404 [DEBUG] | Restoring shadow persistence
+2022-12-20 06:36:25,404 [ERROR] | [restore_shadow_persistence] Could not copy animals.bin ([Errno 2] No such file or directory: './servers/0/mpmissions/empty.deerisle/storage_1/data/animals.bin')
+2022-12-20 06:36:25,404 [ERROR] | [restore_shadow_persistence] Could not copy building.bin ([Errno 2] No such file or directory: './servers/0/mpmissions/empty.deerisle/storage_1/data/building.bin')
+2022-12-20 06:36:25,404 [ERROR] | [restore_shadow_persistence] Could not copy events.bin ([Errno 2] No such file or directory: './servers/0/mpmissions/empty.deerisle/storage_1/data/events.bin')
+2022-12-20 06:36:25,404 [ERROR] | [restore_shadow_persistence] Could not copy types.bin ([Errno 2] No such file or directory: './servers/0/mpmissions/empty.deerisle/storage_1/data/types.bin')
+2022-12-20 06:36:25,404 [ERROR] | [restore_shadow_persistence] Could not copy vehicles.bin ([Errno 2] No such file or directory: './servers/0/mpmissions/empty.deerisle/storage_1/data/vehicles.bin')
+2022-12-20 06:36:25,404 [ERROR] | [restore_shadow_persistence] Could not copy zombies.bin ([Errno 2] No such file or directory: './servers/0/mpmissions/empty.deerisle/storage_1/data/zombies.bin')
+2022-12-20 06:36:25,404 [INFO] | Restored shadow persistence
+2022-12-20 06:36:25,404 [DEBUG] | [FW2-ADM] shutdown took 0s
+2022-12-20 06:36:25,428 [DEBUG] | [FW2-RPT] shutdown took 0s
+2022-12-20 06:36:25,428 [DEBUG] | sleeping for 5s (grace_period)
+2022-12-20 06:36:30,430 [DEBUG] | Creating startup backup
+2022-12-20 06:36:30,430 [DEBUG] | Initiating complete backup (./servers/0/mpmissions/empty.deerisle/storage_1/data)
+2022-12-20 06:36:30,430 [DEBUG] | Saving backup to ./servers/0/backups/1671546990
+2022-12-20 06:36:30,430 [DEBUG] | Backup complete
+2022-12-20 06:36:30,430 [DEBUG] | Moving logs to ./servers/0/logs/1671546990
+2022-12-20 06:36:30,430 [DEBUG] | [logrotate] moved DayZServer_x64.ADM
+2022-12-20 06:36:30,430 [DEBUG] | [logrotate] moved DayZServer_x64_2022-12-20_06-36-10.RPT
+2022-12-20 06:36:30,430 [DEBUG] | [logrotate] moved DayZServer_x64_2022-12-20_06-36-10_2022-12-20_06-36-11.mdmp
+2022-12-20 06:36:30,430 [DEBUG] | [logrotate] moved DayZServer_x64_2022_12_20_063610576.ADM
+2022-12-20 06:36:30,430 [DEBUG] | Deleted 0 expired backups
+2022-12-20 06:36:30,430 [DEBUG] | Verifying mods
+2022-12-20 06:36:30,430 [DEBUG] | Checking for updates to {u'directory': u'@DeerIsle', u'disabled': False, u'disable_updates': False, u'file_id': 1602372402, u'server_side': False}
+2022-12-20 06:36:30,430 [DEBUG] | Checking for updates to {u'directory': u'@CF', u'disabled': False, u'disable_updates': False, u'file_id': 1559212036, u'server_side': False}
+2022-12-20 06:36:30,430 [DEBUG] | Checking for updates to {u'directory': u'@Community-Online-Tools', u'disabled': False, u'disable_updates': False, u'file_id': 1564026768, u'server_side': False}
+2022-12-20 06:36:30,438 [DEBUG] | Launch command: ./servers/0/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2302 -profiles=profiles  -adminlog -freezecheck -dologs "-mod=@DeerIsle;@CF;@Community-Online-Tools;"
+2022-12-20 06:36:30,438 [DEBUG] | Launched process on PID: 5756
+2022-12-20 06:36:30,438 [INFO] | Server process running
+2022-12-20 06:36:30,438 [DEBUG] | Elevated process to real time
+2022-12-20 06:36:31,446 [ERROR] | No active persistence found, cant create shadow
+2022-12-20 06:36:35,447 [DEBUG] | [FW2-RPT] new candidate DayZServer_x64_2022-12-20_06-36-30.RPT (1671546995.14 >? 1671546990.44)
+2022-12-20 06:36:35,447 [DEBUG] | [FW2-RPT] Starting with ./servers/0/profiles/DayZServer_x64_2022-12-20_06-36-30.RPT
+2022-12-20 06:36:35,615 [DEBUG] | Server using 27016 as SteamQueryPort
+2022-12-20 06:36:35,615 [DEBUG] | Sending DZSAL query request...
+2022-12-20 06:36:35,615 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671546990.59 >? 1671546990.44)
+2022-12-20 06:36:35,615 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671546990.59 >? 1671546990.44)
+2022-12-20 06:36:35,615 [DEBUG] | [FW2-ADM] Starting with ./servers/0/profiles/DayZServer_x64.ADM
+2022-12-20 06:37:21,698 [DEBUG] | [FW2-ADM] shutdown took 0s
+2022-12-20 06:37:21,707 [DEBUG] | [FW2-RPT] shutdown took 0s
+2022-12-20 06:37:21,707 [DEBUG] | [Shutdown] RCon authenticated
+2022-12-20 06:37:21,707 [DEBUG] | [Shutdown] RCon listener starting...
+2022-12-20 06:37:21,707 [DEBUG] | [Shutdown] RCon listener started
+2022-12-20 06:37:21,707 [DEBUG] | [Shutdown] Sent RCon lock command
+2022-12-20 06:37:31,720 [DEBUG] | [Shutdown] Sent RCon kick delayed command
+2022-12-20 06:37:37,723 [DEBUG] | [Shutdown] Sent RCon shutdown command
+2022-12-20 06:37:37,723 [DEBUG] | [Shutdown] Completed
+2022-12-20 06:37:39,648 [WARNING] | Abnormal memory depletion detected
+2022-12-20 06:37:41,655 [ERROR] | Server PID could not be accessed.
+2022-12-20 06:37:47,723 [DEBUG] | [Shutdown] RCon listener exited
+2022-12-20 06:40:12,528 [DEBUG] | Creating startup backup
+2022-12-20 06:40:12,529 [DEBUG] | Initiating complete backup (./servers/0/mpmissions/empty.deerisle/storage_1/data)
+2022-12-20 06:40:12,529 [DEBUG] | Saving backup to ./servers/0/backups/1671547212
+2022-12-20 06:40:12,539 [DEBUG] | Backup complete
+2022-12-20 06:40:12,539 [DEBUG] | Moving logs to ./servers/0/logs/1671547212
+2022-12-20 06:40:12,539 [DEBUG] | [logrotate] moved DayZServer_x64.ADM
+2022-12-20 06:40:12,539 [DEBUG] | [logrotate] moved DayZServer_x64_2022-12-20_06-36-30.RPT
+2022-12-20 06:40:12,540 [DEBUG] | [logrotate] moved DayZServer_x64_2022_12_20_063630591.ADM
+2022-12-20 06:40:12,540 [DEBUG] | [logrotate] moved script_2022-12-20_06-36-32.log
+2022-12-20 06:40:12,540 [DEBUG] | [logrotate] moved serverconsole.log
+2022-12-20 06:40:12,540 [DEBUG] | Deleted 0 expired backups
+2022-12-20 06:40:12,542 [DEBUG] | Verifying mods
+2022-12-20 06:40:12,542 [DEBUG] | Checking for updates to {u'directory': u'@DeerIsle', u'disabled': False, u'disable_updates': False, u'file_id': 1602372402, u'server_side': False}
+2022-12-20 06:40:12,542 [DEBUG] | Checking for updates to {u'directory': u'@CF', u'disabled': False, u'disable_updates': False, u'file_id': 1559212036, u'server_side': False}
+2022-12-20 06:40:12,542 [DEBUG] | Checking for updates to {u'directory': u'@Community-Online-Tools', u'disabled': False, u'disable_updates': False, u'file_id': 1564026768, u'server_side': False}
+2022-12-20 06:40:12,542 [DEBUG] | Creating ./servers/0/@BaseBuildingPlus
+2022-12-20 06:40:12,707 [DEBUG] | Installing key(s) for 1710977250
+2022-12-20 06:40:12,707 [DEBUG] | Installed key BBP.bikey for 1710977250
+2022-12-20 06:40:12,709 [DEBUG] | Creating ./servers/0/@BBPItemPack
+2022-12-20 06:40:12,755 [DEBUG] | Installing key(s) for 2794690371
+2022-12-20 06:40:12,756 [DEBUG] | Installed key BBP.bikey for 2794690371
+2022-12-20 06:40:12,756 [DEBUG] | Creating ./servers/0/@BuildAnywhere_v3
+2022-12-20 06:40:12,760 [DEBUG] | Installing key(s) for 1854626456
+2022-12-20 06:40:12,760 [DEBUG] | Installed key BorizzK.bikey for 1854626456
+2022-12-20 06:40:12,760 [DEBUG] | Creating ./servers/0/@Code Lock
+2022-12-20 06:40:12,769 [DEBUG] | Installing key(s) for 1646187754
+2022-12-20 06:40:12,770 [DEBUG] | Installed key CodeLockv3.bikey for 1646187754
+2022-12-20 06:40:12,770 [DEBUG] | Creating ./servers/0/@BuilderItems
+2022-12-20 06:40:12,799 [DEBUG] | Installing key(s) for 1565871491
+2022-12-20 06:40:12,799 [DEBUG] | Installed key NotABananaV3.bikey for 1565871491
+2022-12-20 06:40:12,802 [DEBUG] | Launch command: ./servers/0/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2302 -profiles=profiles  -adminlog -freezecheck -dologs "-mod=@DeerIsle;@CF;@Community-Online-Tools;@BaseBuildingPlus;@BBPItemPack;@BuildAnywhere_v3;@Code Lock;@BuilderItems;"
+2022-12-20 06:40:12,805 [DEBUG] | Launched process on PID: 5524
+2022-12-20 06:40:12,805 [INFO] | Server process running
+2022-12-20 06:40:12,808 [DEBUG] | Elevated process to real time
+2022-12-20 06:40:17,809 [DEBUG] | [FW2-RPT] new candidate DayZServer_x64_2022-12-20_06-40-12.RPT (1671547217.62 >? 1671547212.81)
+2022-12-20 06:40:17,809 [DEBUG] | [FW2-RPT] Starting with ./servers/0/profiles/DayZServer_x64_2022-12-20_06-40-12.RPT
+2022-12-20 06:40:17,977 [DEBUG] | Server using 27016 as SteamQueryPort
+2022-12-20 06:40:17,977 [DEBUG] | Sending DZSAL query request...
+2022-12-20 06:40:17,977 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671547212.96 >? 1671547212.81)
+2022-12-20 06:40:17,977 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671547212.96 >? 1671547212.81)
+2022-12-20 06:40:17,977 [DEBUG] | [FW2-ADM] Starting with ./servers/0/profiles/DayZServer_x64.ADM
+2022-12-20 06:41:07,836 [DEBUG] | [FW2-ADM] shutdown took 0s
+2022-12-20 06:41:07,882 [DEBUG] | [FW2-RPT] shutdown took 0s
+2022-12-20 06:41:07,882 [DEBUG] | [Shutdown] RCon authenticated
+2022-12-20 06:41:07,884 [DEBUG] | [Shutdown] RCon listener starting...
+2022-12-20 06:41:07,884 [DEBUG] | [Shutdown] RCon listener started
+2022-12-20 06:41:07,884 [DEBUG] | [Shutdown] Sent RCon lock command
+2022-12-20 06:41:17,895 [DEBUG] | [Shutdown] Sent RCon kick delayed command
+2022-12-20 06:41:23,898 [DEBUG] | [Shutdown] Sent RCon shutdown command
+2022-12-20 06:41:23,898 [DEBUG] | [Shutdown] Completed
+2022-12-20 06:41:27,036 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (False, 7.03, 2.00699996948)
+2022-12-20 06:41:28,039 [ERROR] | Server PID could not be accessed.
+2022-12-20 06:41:33,898 [DEBUG] | [Shutdown] RCon listener exited
+2022-12-20 06:43:07,411 [DEBUG] | Creating startup backup
+2022-12-20 06:43:07,413 [DEBUG] | Initiating complete backup (./servers/0/mpmissions/empty.deerisle/storage_1/data)
+2022-12-20 06:43:07,413 [DEBUG] | Saving backup to ./servers/0/backups/1671547387
+2022-12-20 06:43:07,424 [DEBUG] | Backup complete
+2022-12-20 06:43:07,424 [DEBUG] | Moving logs to ./servers/0/logs/1671547387
+2022-12-20 06:43:07,424 [DEBUG] | [logrotate] moved DayZServer_x64.ADM
+2022-12-20 06:43:07,426 [DEBUG] | [logrotate] moved DayZServer_x64_2022-12-20_06-40-12.RPT
+2022-12-20 06:43:07,427 [DEBUG] | [logrotate] moved DayZServer_x64_2022_12_20_064012960.ADM
+2022-12-20 06:43:07,427 [DEBUG] | [logrotate] moved script_2022-12-20_06-40-14.log
+2022-12-20 06:43:07,427 [DEBUG] | [logrotate] moved serverconsole.log
+2022-12-20 06:43:07,427 [DEBUG] | Deleted 0 expired backups
+2022-12-20 06:43:07,427 [DEBUG] | Verifying mods
+2022-12-20 06:43:07,427 [DEBUG] | Checking for updates to {u'directory': u'@DeerIsle', u'disabled': False, u'disable_updates': False, u'file_id': 1602372402, u'server_side': False}
+2022-12-20 06:43:07,427 [DEBUG] | Checking for updates to {u'directory': u'@CF', u'disabled': False, u'disable_updates': False, u'file_id': 1559212036, u'server_side': False}
+2022-12-20 06:43:07,427 [DEBUG] | Checking for updates to {u'directory': u'@Community-Online-Tools', u'disabled': False, u'disable_updates': False, u'file_id': 1564026768, u'server_side': False}
+2022-12-20 06:43:07,428 [DEBUG] | Checking for updates to {u'directory': u'@BaseBuildingPlus', u'disabled': False, u'disable_updates': False, u'file_id': 1710977250, u'server_side': False}
+2022-12-20 06:43:07,428 [DEBUG] | Checking for updates to {u'directory': u'@BBPItemPack', u'disabled': False, u'disable_updates': False, u'file_id': 2794690371L, u'server_side': False}
+2022-12-20 06:43:07,428 [DEBUG] | Checking for updates to {u'directory': u'@BuildAnywhere_v3', u'disabled': False, u'disable_updates': False, u'file_id': 1854626456, u'server_side': False}
+2022-12-20 06:43:07,428 [DEBUG] | Checking for updates to {u'directory': u'@Code Lock', u'disabled': False, u'disable_updates': False, u'file_id': 1646187754, u'server_side': False}
+2022-12-20 06:43:07,430 [DEBUG] | Checking for updates to {u'directory': u'@BuilderItems', u'disabled': False, u'disable_updates': False, u'file_id': 1565871491, u'server_side': False}
+2022-12-20 06:43:07,430 [DEBUG] | Creating ./servers/0/@Dabs Framework
+2022-12-20 06:43:07,434 [DEBUG] | Installing key(s) for 2545327648
+2022-12-20 06:43:07,436 [DEBUG] | Installed key InclementDab.bikey for 2545327648
+2022-12-20 06:43:07,436 [DEBUG] | Creating ./servers/0/@DayZ Editor Loader
+2022-12-20 06:43:07,438 [DEBUG] | Installing key(s) for 2276010135
+2022-12-20 06:43:07,440 [DEBUG] | Installed key InclementDab.bikey for 2276010135
+2022-12-20 06:43:07,440 [DEBUG] | Creating ./servers/0/@Dayz Navigation
+2022-12-20 06:43:07,447 [DEBUG] | Installing key(s) for 1791033033
+2022-12-20 06:43:07,447 [DEBUG] | Installed key Nine.bikey for 1791033033
+2022-12-20 06:43:07,447 [DEBUG] | Creating ./servers/0/@Ear-Plugs
+2022-12-20 06:43:07,450 [DEBUG] | Installing key(s) for 1819514788
+2022-12-20 06:43:07,451 [DEBUG] | Installed key CooltrainV3.bikey for 1819514788
+2022-12-20 06:43:07,451 [DEBUG] | Creating ./servers/0/@FOX WEAPONS 2.0
+2022-12-20 06:43:07,881 [DEBUG] | Installing key(s) for 2723807644
+2022-12-20 06:43:07,881 [DEBUG] | Installed key PUSHISTIK.bikey for 2723807644
+2022-12-20 06:43:07,881 [DEBUG] | Creating ./servers/0/@gebsfish
+2022-12-20 06:43:07,940 [DEBUG] | Installing key(s) for 2757509117
+2022-12-20 06:43:07,940 [DEBUG] | Installed key Geb.bikey for 2757509117
+2022-12-20 06:43:07,944 [DEBUG] | Launch command: ./servers/0/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2302 -profiles=profiles  -adminlog -freezecheck -dologs "-mod=@DeerIsle;@CF;@Community-Online-Tools;@BaseBuildingPlus;@BBPItemPack;@BuildAnywhere_v3;@Code Lock;@BuilderItems;@Dabs Framework;@DayZ Editor Loader;@Dayz Navigation;@Ear-Plugs;@FOX WEAPONS 2.0;@gebsfish;"
+2022-12-20 06:43:07,946 [DEBUG] | Launched process on PID: 1692
+2022-12-20 06:43:07,946 [INFO] | Server process running
+2022-12-20 06:43:07,947 [DEBUG] | Elevated process to real time
+2022-12-20 06:43:12,956 [DEBUG] | [FW2-RPT] new candidate DayZServer_x64_2022-12-20_06-43-07.RPT (1671547392.95 >? 1671547387.95)
+2022-12-20 06:43:12,956 [DEBUG] | [FW2-RPT] Starting with ./servers/0/profiles/DayZServer_x64_2022-12-20_06-43-07.RPT
+2022-12-20 06:43:13,665 [DEBUG] | Server using 27016 as SteamQueryPort
+2022-12-20 06:43:13,665 [DEBUG] | Sending DZSAL query request...
+2022-12-20 06:43:13,665 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671547388.11 >? 1671547387.95)
+2022-12-20 06:43:13,665 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671547388.11 >? 1671547387.95)
+2022-12-20 06:43:13,665 [DEBUG] | [FW2-ADM] Starting with ./servers/0/profiles/DayZServer_x64.ADM
+2022-12-20 06:45:02,634 [DEBUG] | [FW2-ADM] shutdown took 0s
+2022-12-20 06:45:02,736 [DEBUG] | [FW2-RPT] shutdown took 0s
+2022-12-20 06:45:02,736 [DEBUG] | [Shutdown] RCon authenticated
+2022-12-20 06:45:02,736 [DEBUG] | [Shutdown] RCon listener starting...
+2022-12-20 06:45:02,736 [DEBUG] | [Shutdown] RCon listener started
+2022-12-20 06:45:02,736 [DEBUG] | [Shutdown] Sent RCon lock command
+2022-12-20 06:45:12,746 [DEBUG] | [Shutdown] Sent RCon kick delayed command
+2022-12-20 06:45:18,749 [DEBUG] | [Shutdown] Sent RCon shutdown command
+2022-12-20 06:45:18,749 [DEBUG] | [Shutdown] Completed
+2022-12-20 06:45:21,434 [WARNING] | Abnormal memory depletion detected
+2022-12-20 06:45:22,437 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (False, 0.65, 2.007999897)
+2022-12-20 06:45:23,440 [ERROR] | Server PID could not be accessed.
+2022-12-20 06:45:28,750 [DEBUG] | [Shutdown] RCon listener exited
+2022-12-20 06:47:46,510 [DEBUG] | Creating startup backup
+2022-12-20 06:47:46,510 [DEBUG] | Initiating complete backup (./servers/0/mpmissions/empty.deerisle/storage_1/data)
+2022-12-20 06:47:46,510 [DEBUG] | Saving backup to ./servers/0/backups/1671547666
+2022-12-20 06:47:46,523 [DEBUG] | Backup complete
+2022-12-20 06:47:46,523 [DEBUG] | Moving logs to ./servers/0/logs/1671547666
+2022-12-20 06:47:46,523 [DEBUG] | [logrotate] moved DayZServer_x64.ADM
+2022-12-20 06:47:46,523 [DEBUG] | [logrotate] moved DayZServer_x64_2022-12-20_06-43-07.RPT
+2022-12-20 06:47:46,525 [DEBUG] | [logrotate] moved DayZServer_x64_2022_12_20_064308103.ADM
+2022-12-20 06:47:46,525 [DEBUG] | [logrotate] moved script_2022-12-20_06-43-10.log
+2022-12-20 06:47:46,525 [DEBUG] | [logrotate] moved serverconsole.log
+2022-12-20 06:47:46,526 [DEBUG] | Deleted 0 expired backups
+2022-12-20 06:47:46,526 [DEBUG] | Verifying mods
+2022-12-20 06:47:46,526 [DEBUG] | Checking for updates to {u'directory': u'@DeerIsle', u'disabled': False, u'disable_updates': False, u'file_id': 1602372402, u'server_side': False}
+2022-12-20 06:47:46,526 [DEBUG] | Checking for updates to {u'directory': u'@CF', u'disabled': False, u'disable_updates': False, u'file_id': 1559212036, u'server_side': False}
+2022-12-20 06:47:46,526 [DEBUG] | Checking for updates to {u'directory': u'@Community-Online-Tools', u'disabled': False, u'disable_updates': False, u'file_id': 1564026768, u'server_side': False}
+2022-12-20 06:47:46,526 [DEBUG] | Checking for updates to {u'directory': u'@BaseBuildingPlus', u'disabled': False, u'disable_updates': False, u'file_id': 1710977250, u'server_side': False}
+2022-12-20 06:47:46,526 [DEBUG] | Checking for updates to {u'directory': u'@BBPItemPack', u'disabled': False, u'disable_updates': False, u'file_id': 2794690371L, u'server_side': False}
+2022-12-20 06:47:46,526 [DEBUG] | Checking for updates to {u'directory': u'@BuildAnywhere_v3', u'disabled': False, u'disable_updates': False, u'file_id': 1854626456, u'server_side': False}
+2022-12-20 06:47:46,528 [DEBUG] | Checking for updates to {u'directory': u'@Code Lock', u'disabled': False, u'disable_updates': False, u'file_id': 1646187754, u'server_side': False}
+2022-12-20 06:47:46,528 [DEBUG] | Checking for updates to {u'directory': u'@BuilderItems', u'disabled': False, u'disable_updates': False, u'file_id': 1565871491, u'server_side': False}
+2022-12-20 06:47:46,528 [DEBUG] | Checking for updates to {u'directory': u'@Dabs Framework', u'disabled': False, u'disable_updates': False, u'file_id': 2545327648L, u'server_side': False}
+2022-12-20 06:47:46,529 [DEBUG] | Checking for updates to {u'directory': u'@DayZ Editor Loader', u'disabled': False, u'disable_updates': False, u'file_id': 2276010135L, u'server_side': False}
+2022-12-20 06:47:46,529 [DEBUG] | Checking for updates to {u'directory': u'@Dayz Navigation', u'disabled': False, u'disable_updates': False, u'file_id': 1791033033, u'server_side': False}
+2022-12-20 06:47:46,529 [DEBUG] | Checking for updates to {u'directory': u'@Ear-Plugs', u'disabled': False, u'disable_updates': False, u'file_id': 1819514788, u'server_side': False}
+2022-12-20 06:47:46,529 [DEBUG] | Checking for updates to {u'directory': u'@FOX WEAPONS 2.0', u'disabled': False, u'disable_updates': False, u'file_id': 2723807644L, u'server_side': False}
+2022-12-20 06:47:46,529 [DEBUG] | Checking for updates to {u'directory': u'@gebsfish', u'disabled': False, u'disable_updates': False, u'file_id': 2757509117L, u'server_side': False}
+2022-12-20 06:47:46,529 [DEBUG] | Creating ./servers/0/@Mass'sManyItemOverhaul
+2022-12-20 06:47:47,394 [DEBUG] | Installing key(s) for 1566911166
+2022-12-20 06:47:47,394 [DEBUG] | Installed key Mass.bikey for 1566911166
+2022-12-20 06:47:47,394 [DEBUG] | Creating ./servers/0/@MuchStuffPack
+2022-12-20 06:47:47,798 [DEBUG] | Installing key(s) for 1991570984
+2022-12-20 06:47:47,799 [DEBUG] | Installed key Helkhiana.bikey for 1991570984
+2022-12-20 06:47:47,799 [DEBUG] | Creating ./servers/0/@WindstridesClothingPack
+2022-12-20 06:47:48,142 [DEBUG] | Installing key(s) for 1797720064
+2022-12-20 06:47:48,144 [DEBUG] | Installed key WindstrideV2.bikey for 1797720064
+2022-12-20 06:47:48,144 [DEBUG] | Creating ./servers/0/@MunghardsItempack
+2022-12-20 06:47:48,594 [DEBUG] | Installing key(s) for 1734713776
+2022-12-20 06:47:48,594 [DEBUG] | Installed key Munghard.bikey for 1734713776
+2022-12-20 06:47:48,595 [DEBUG] | Creating ./servers/0/@CannabisPlus
+2022-12-20 06:47:48,663 [DEBUG] | Installing key(s) for 1932611410
+2022-12-20 06:47:48,663 [DEBUG] | Installed key IceBlade.bikey for 1932611410
+2022-12-20 06:47:48,665 [DEBUG] | Launch command: ./servers/0/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2302 -profiles=profiles  -adminlog -freezecheck -dologs "-mod=@DeerIsle;@CF;@Community-Online-Tools;@BaseBuildingPlus;@BBPItemPack;@BuildAnywhere_v3;@Code Lock;@BuilderItems;@Dabs Framework;@DayZ Editor Loader;@Dayz Navigation;@Ear-Plugs;@FOX WEAPONS 2.0;@gebsfish;@Mass'sManyItemOverhaul;@MuchStuffPack;@WindstridesClothingPack;@MunghardsItempack;@CannabisPlus;"
+2022-12-20 06:47:48,668 [DEBUG] | Launched process on PID: 5980
+2022-12-20 06:47:48,668 [INFO] | Server process running
+2022-12-20 06:47:48,670 [DEBUG] | Elevated process to real time
+2022-12-20 06:47:53,674 [DEBUG] | [FW2-RPT] new candidate DayZServer_x64_2022-12-20_06-47-48.RPT (1671547673.24 >? 1671547668.67)
+2022-12-20 06:47:53,674 [DEBUG] | [FW2-RPT] Starting with ./servers/0/profiles/DayZServer_x64_2022-12-20_06-47-48.RPT
+2022-12-20 06:47:57,536 [DEBUG] | Server using 27016 as SteamQueryPort
+2022-12-20 06:47:57,536 [DEBUG] | Sending DZSAL query request...
+2022-12-20 06:47:57,536 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671547668.85 >? 1671547668.67)
+2022-12-20 06:47:57,536 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671547668.85 >? 1671547668.67)
+2022-12-20 06:47:57,536 [DEBUG] | [FW2-ADM] Starting with ./servers/0/profiles/DayZServer_x64.ADM
+2022-12-20 06:48:33,846 [DEBUG] | [FW2-ADM] shutdown took 0s
+2022-12-20 06:48:33,911 [DEBUG] | [FW2-RPT] shutdown took 0s
+2022-12-20 06:48:33,911 [DEBUG] | [Shutdown] RCon authenticated
+2022-12-20 06:48:33,911 [DEBUG] | [Shutdown] RCon listener starting...
+2022-12-20 06:48:33,913 [DEBUG] | [Shutdown] RCon listener started
+2022-12-20 06:48:33,913 [DEBUG] | [Shutdown] Sent RCon lock command
+2022-12-20 06:48:43,924 [DEBUG] | [Shutdown] Sent RCon kick delayed command
+2022-12-20 06:48:49,926 [DEBUG] | [Shutdown] Sent RCon shutdown command
+2022-12-20 06:48:49,926 [DEBUG] | [Shutdown] Completed
+2022-12-20 06:48:53,864 [ERROR] | Server PID could not be accessed.
+2022-12-20 06:48:59,934 [DEBUG] | [Shutdown] RCon listener exited
+2022-12-20 06:51:16,164 [DEBUG] | Creating startup backup
+2022-12-20 06:51:16,165 [DEBUG] | Initiating complete backup (./servers/0/mpmissions/empty.deerisle/storage_1/data)
+2022-12-20 06:51:16,165 [DEBUG] | Saving backup to ./servers/0/backups/1671547876
+2022-12-20 06:51:16,176 [DEBUG] | Backup complete
+2022-12-20 06:51:16,177 [DEBUG] | Moving logs to ./servers/0/logs/1671547876
+2022-12-20 06:51:16,177 [DEBUG] | [logrotate] moved DayZServer_x64.ADM
+2022-12-20 06:51:16,177 [DEBUG] | [logrotate] moved DayZServer_x64_2022-12-20_06-47-48.RPT
+2022-12-20 06:51:16,177 [DEBUG] | [logrotate] moved DayZServer_x64_2022_12_20_064748848.ADM
+2022-12-20 06:51:16,177 [DEBUG] | [logrotate] moved script_2022-12-20_06-47-53.log
+2022-12-20 06:51:16,178 [DEBUG] | [logrotate] moved serverconsole.log
+2022-12-20 06:51:16,178 [DEBUG] | Deleted 0 expired backups
+2022-12-20 06:51:16,178 [DEBUG] | Verifying mods
+2022-12-20 06:51:16,178 [DEBUG] | Checking for updates to {u'directory': u'@DeerIsle', u'disabled': False, u'disable_updates': False, u'file_id': 1602372402, u'server_side': False}
+2022-12-20 06:51:16,180 [DEBUG] | Checking for updates to {u'directory': u'@CF', u'disabled': False, u'disable_updates': False, u'file_id': 1559212036, u'server_side': False}
+2022-12-20 06:51:16,180 [DEBUG] | Checking for updates to {u'directory': u'@Community-Online-Tools', u'disabled': False, u'disable_updates': False, u'file_id': 1564026768, u'server_side': False}
+2022-12-20 06:51:16,180 [DEBUG] | Checking for updates to {u'directory': u'@BaseBuildingPlus', u'disabled': False, u'disable_updates': False, u'file_id': 1710977250, u'server_side': False}
+2022-12-20 06:51:16,180 [DEBUG] | Checking for updates to {u'directory': u'@BBPItemPack', u'disabled': False, u'disable_updates': False, u'file_id': 2794690371L, u'server_side': False}
+2022-12-20 06:51:16,180 [DEBUG] | Checking for updates to {u'directory': u'@BuildAnywhere_v3', u'disabled': False, u'disable_updates': False, u'file_id': 1854626456, u'server_side': False}
+2022-12-20 06:51:16,180 [DEBUG] | Checking for updates to {u'directory': u'@Code Lock', u'disabled': False, u'disable_updates': False, u'file_id': 1646187754, u'server_side': False}
+2022-12-20 06:51:16,180 [DEBUG] | Checking for updates to {u'directory': u'@BuilderItems', u'disabled': False, u'disable_updates': False, u'file_id': 1565871491, u'server_side': False}
+2022-12-20 06:51:16,180 [DEBUG] | Checking for updates to {u'directory': u'@Dabs Framework', u'disabled': False, u'disable_updates': False, u'file_id': 2545327648L, u'server_side': False}
+2022-12-20 06:51:16,181 [DEBUG] | Checking for updates to {u'directory': u'@DayZ Editor Loader', u'disabled': False, u'disable_updates': False, u'file_id': 2276010135L, u'server_side': False}
+2022-12-20 06:51:16,181 [DEBUG] | Checking for updates to {u'directory': u'@Dayz Navigation', u'disabled': False, u'disable_updates': False, u'file_id': 1791033033, u'server_side': False}
+2022-12-20 06:51:16,181 [DEBUG] | Checking for updates to {u'directory': u'@Ear-Plugs', u'disabled': False, u'disable_updates': False, u'file_id': 1819514788, u'server_side': False}
+2022-12-20 06:51:16,181 [DEBUG] | Checking for updates to {u'directory': u'@FOX WEAPONS 2.0', u'disabled': False, u'disable_updates': False, u'file_id': 2723807644L, u'server_side': False}
+2022-12-20 06:51:16,183 [DEBUG] | Checking for updates to {u'directory': u'@gebsfish', u'disabled': False, u'disable_updates': False, u'file_id': 2757509117L, u'server_side': False}
+2022-12-20 06:51:16,183 [DEBUG] | Checking for updates to {u'directory': u"@Mass'sManyItemOverhaul", u'disabled': False, u'disable_updates': False, u'file_id': 1566911166, u'server_side': False}
+2022-12-20 06:51:16,184 [DEBUG] | Checking for updates to {u'directory': u'@MuchStuffPack', u'disabled': False, u'disable_updates': False, u'file_id': 1991570984, u'server_side': False}
+2022-12-20 06:51:16,184 [DEBUG] | Checking for updates to {u'directory': u'@WindstridesClothingPack', u'disabled': False, u'disable_updates': False, u'file_id': 1797720064, u'server_side': False}
+2022-12-20 06:51:16,184 [DEBUG] | Checking for updates to {u'directory': u'@MunghardsItempack', u'disabled': False, u'disable_updates': False, u'file_id': 1734713776, u'server_side': False}
+2022-12-20 06:51:16,184 [DEBUG] | Checking for updates to {u'directory': u'@CannabisPlus', u'disabled': False, u'disable_updates': False, u'file_id': 1932611410, u'server_side': False}
+2022-12-20 06:51:16,184 [DEBUG] | Creating ./servers/0/@VanillaPlusPlusMap
+2022-12-20 06:51:16,188 [DEBUG] | Installing key(s) for 1623711988
+2022-12-20 06:51:16,188 [DEBUG] | Installed key VPP.bikey for 1623711988
+2022-12-20 06:51:16,190 [DEBUG] | Creating ./servers/0/@Notifications
+2022-12-20 06:51:16,200 [DEBUG] | Installing key(s) for 2353998362
+2022-12-20 06:51:16,200 [DEBUG] | Installed key daemonforge.bikey for 2353998362
+2022-12-20 06:51:16,200 [DEBUG] | Creating ./servers/0/@RedFalcon Flight System Heliz
+2022-12-20 06:51:16,490 [DEBUG] | Installing key(s) for 2692979668
+2022-12-20 06:51:16,492 [DEBUG] | Installed key RFFSHeliz.bikey for 2692979668
+2022-12-20 06:51:16,492 [DEBUG] | Creating ./servers/0/@42 Months After  PvE + RP Mod Pack
+2022-12-20 06:51:17,369 [DEBUG] | Installing key(s) for 2902744485
+2022-12-20 06:51:17,371 [DEBUG] | Installed key 42MA.bikey for 2902744485
+2022-12-20 06:51:17,371 [DEBUG] | Installed key 42MA2.bikey for 2902744485
+2022-12-20 06:51:17,371 [DEBUG] | Installed key 42MA2Gear.bikey for 2902744485
+2022-12-20 06:51:17,371 [DEBUG] | Installed key 42MA2VAirsoft.bikey for 2902744485
+2022-12-20 06:51:17,372 [DEBUG] | Installed key 42MA2VGearanilla.bikey for 2902744485
+2022-12-20 06:51:17,372 [DEBUG] | Installed key 42MABearBillboards.bikey for 2902744485
+2022-12-20 06:51:17,374 [DEBUG] | Installed key 42MAGearKey.bikey for 2902744485
+2022-12-20 06:51:17,374 [DEBUG] | Installed key 42MALoadingScreeb.bikey for 2902744485
+2022-12-20 06:51:17,375 [DEBUG] | Installed key 42MonthsAfter.bikey for 2902744485
+2022-12-20 06:51:17,375 [DEBUG] | Installed key ADACHI.bikey for 2902744485
+2022-12-20 06:51:17,375 [DEBUG] | Installed key affenb3rtV2.bikey for 2902744485
+2022-12-20 06:51:17,375 [DEBUG] | Installed key AntiH.bikey for 2902744485
+2022-12-20 06:51:17,375 [DEBUG] | Installed key BBP.bikey for 2902744485
+2022-12-20 06:51:17,377 [DEBUG] | Installed key boomlay.bikey for 2902744485
+2022-12-20 06:51:17,378 [DEBUG] | Installed key Bunker.bikey for 2902744485
+2022-12-20 06:51:17,378 [DEBUG] | Installed key CS.bikey for 2902744485
+2022-12-20 06:51:17,378 [DEBUG] | Installed key CSMilitary.bikey for 2902744485
+2022-12-20 06:51:17,378 [DEBUG] | Installed key dayznchill.bikey for 2902744485
+2022-12-20 06:51:17,380 [DEBUG] | Installed key DayZRussia.bikey for 2902744485
+2022-12-20 06:51:17,380 [DEBUG] | Installed key DCG_key.bikey for 2902744485
+2022-12-20 06:51:17,381 [DEBUG] | Installed key DC_PartyMe_v3.bikey for 2902744485
+2022-12-20 06:51:17,381 [DEBUG] | Installed key dxmk.bikey for 2902744485
+2022-12-20 06:51:17,381 [DEBUG] | Installed key Ermiq.bikey for 2902744485
+2022-12-20 06:51:17,381 [DEBUG] | Installed key FMP2.bikey for 2902744485
+2022-12-20 06:51:17,381 [DEBUG] | Installed key Funatic.bikey for 2902744485
+2022-12-20 06:51:17,382 [DEBUG] | Installed key GermanDayZ.bikey for 2902744485
+2022-12-20 06:51:17,382 [DEBUG] | Installed key HelkhianaV2.bikey for 2902744485
+2022-12-20 06:51:17,384 [DEBUG] | Installed key iEatMyYoung.bikey for 2902744485
+2022-12-20 06:51:17,384 [DEBUG] | Installed key kizer.bikey for 2902744485
+2022-12-20 06:51:17,384 [DEBUG] | Installed key kizer2.bikey for 2902744485
+2022-12-20 06:51:17,384 [DEBUG] | Installed key Labil23-TherapieKartell.bikey for 2902744485
+2022-12-20 06:51:17,385 [DEBUG] | Installed key LBmasterPub_v3.bikey for 2902744485
+2022-12-20 06:51:17,385 [DEBUG] | Installed key Liven.bikey for 2902744485
+2022-12-20 06:51:17,387 [DEBUG] | Installed key Loadingscreens.bikey for 2902744485
+2022-12-20 06:51:17,387 [DEBUG] | Installed key MaxCross.bikey for 2902744485
+2022-12-20 06:51:17,388 [DEBUG] | Installed key MoreDoors.bikey for 2902744485
+2022-12-20 06:51:17,388 [DEBUG] | Installed key NeonMurder.bikey for 2902744485
+2022-12-20 06:51:17,388 [DEBUG] | Installed key OYOLoadingScreen.bikey for 2902744485
+2022-12-20 06:51:17,388 [DEBUG] | Installed key Pope.bikey for 2902744485
+2022-12-20 06:51:17,390 [DEBUG] | Installed key Radioactive.bikey for 2902744485
+2022-12-20 06:51:17,390 [DEBUG] | Installed key rag_tyson.bikey for 2902744485
+2022-12-20 06:51:17,391 [DEBUG] | Installed key randomelity.bikey for 2902744485
+2022-12-20 06:51:17,391 [DEBUG] | Installed key RC.bikey for 2902744485
+2022-12-20 06:51:17,391 [DEBUG] | Installed key RedFalcon.bikey for 2902744485
+2022-12-20 06:51:17,392 [DEBUG] | Installed key RubberBulletsDump.bikey for 2902744485
+2022-12-20 06:51:17,392 [DEBUG] | Installed key ruffaz.bikey for 2902744485
+2022-12-20 06:51:17,392 [DEBUG] | Installed key S815.bikey for 2902744485
+2022-12-20 06:51:17,394 [DEBUG] | Installed key schana.bikey for 2902744485
+2022-12-20 06:51:17,394 [DEBUG] | Installed key Skyline.bikey for 2902744485
+2022-12-20 06:51:17,394 [DEBUG] | Installed key Sleeper.bikey for 2902744485
+2022-12-20 06:51:17,394 [DEBUG] | Installed key Tim.bikey for 2902744485
+2022-12-20 06:51:17,395 [DEBUG] | Installed key TrikovaTM.bikey for 2902744485
+2022-12-20 06:51:17,395 [DEBUG] | Installed key XBARI_public.bikey for 2902744485
+2022-12-20 06:51:17,397 [DEBUG] | Installed key Zenarchist.bikey for 2902744485
+2022-12-20 06:51:17,397 [DEBUG] | Installed key Zyrain.bikey for 2902744485
+2022-12-20 06:51:17,400 [DEBUG] | Launch command: ./servers/0/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2302 -profiles=profiles  -adminlog -freezecheck -dologs "-mod=@DeerIsle;@CF;@Community-Online-Tools;@BaseBuildingPlus;@BBPItemPack;@BuildAnywhere_v3;@Code Lock;@BuilderItems;@Dabs Framework;@DayZ Editor Loader;@Dayz Navigation;@Ear-Plugs;@FOX WEAPONS 2.0;@gebsfish;@Mass'sManyItemOverhaul;@MuchStuffPack;@WindstridesClothingPack;@MunghardsItempack;@CannabisPlus;@VanillaPlusPlusMap;@Notifications;@RedFalcon Flight System Heliz;@42 Months After  PvE + RP Mod Pack;"
+2022-12-20 06:51:17,403 [DEBUG] | Launched process on PID: 6380
+2022-12-20 06:51:17,403 [INFO] | Server process running
+2022-12-20 06:51:17,404 [DEBUG] | Elevated process to real time
+2022-12-20 06:51:22,413 [DEBUG] | [FW2-RPT] new candidate DayZServer_x64_2022-12-20_06-51-17.RPT (1671547882.19 >? 1671547877.4)
+2022-12-20 06:51:22,413 [DEBUG] | [FW2-RPT] Starting with ./servers/0/profiles/DayZServer_x64_2022-12-20_06-51-17.RPT
+2022-12-20 06:51:25,046 [DEBUG] | Server using 27016 as SteamQueryPort
+2022-12-20 06:51:25,046 [DEBUG] | Sending DZSAL query request...
+2022-12-20 06:51:25,046 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671547877.57 >? 1671547877.4)
+2022-12-20 06:51:25,046 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671547877.57 >? 1671547877.4)
+2022-12-20 06:51:25,046 [DEBUG] | [FW2-ADM] Starting with ./servers/0/profiles/DayZServer_x64.ADM
+2022-12-20 06:52:05,296 [DEBUG] | [FW2-ADM] shutdown took 0s
+2022-12-20 06:52:05,303 [DEBUG] | [FW2-RPT] shutdown took 0s
+2022-12-20 06:52:05,303 [DEBUG] | [Shutdown] RCon authenticated
+2022-12-20 06:52:05,303 [DEBUG] | [Shutdown] RCon listener starting...
+2022-12-20 06:52:05,303 [DEBUG] | [Shutdown] RCon listener started
+2022-12-20 06:52:05,305 [DEBUG] | [Shutdown] Sent RCon lock command
+2022-12-20 06:52:15,315 [DEBUG] | [Shutdown] Sent RCon kick delayed command
+2022-12-20 06:52:21,318 [DEBUG] | [Shutdown] Sent RCon shutdown command
+2022-12-20 06:52:21,318 [DEBUG] | [Shutdown] Completed
+2022-12-20 06:52:23,625 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (0.0, 0.0, 2.00600004196)
+2022-12-20 06:52:24,631 [ERROR] | Server PID could not be accessed.
+2022-12-20 06:52:31,319 [DEBUG] | [Shutdown] RCon listener exited
+2022-12-20 06:57:00,990 [DEBUG] | Creating startup backup
+2022-12-20 06:57:00,990 [DEBUG] | Initiating complete backup (./servers/0/mpmissions/empty.deerisle/storage_1/data)
+2022-12-20 06:57:00,990 [DEBUG] | Saving backup to ./servers/0/backups/1671548220
+2022-12-20 06:57:01,000 [DEBUG] | Backup complete
+2022-12-20 06:57:01,000 [DEBUG] | Moving logs to ./servers/0/logs/1671548221
+2022-12-20 06:57:01,002 [DEBUG] | [logrotate] moved crash_2022-12-20_06-51-20.log
+2022-12-20 06:57:01,002 [DEBUG] | [logrotate] moved DayZServer_x64.ADM
+2022-12-20 06:57:01,003 [DEBUG] | [logrotate] moved DayZServer_x64_2022-12-20_06-51-17.RPT
+2022-12-20 06:57:01,003 [DEBUG] | [logrotate] moved DayZServer_x64_2022_12_20_065117566.ADM
+2022-12-20 06:57:01,003 [DEBUG] | [logrotate] moved RFFSHeli_2022-12-20_06-51-32.log
+2022-12-20 06:57:01,005 [DEBUG] | [logrotate] moved script_2022-12-20_06-51-20.log
+2022-12-20 06:57:01,005 [DEBUG] | [logrotate] moved serverconsole.log
+2022-12-20 06:57:01,006 [DEBUG] | Deleted 0 expired backups
+2022-12-20 06:57:01,006 [DEBUG] | Verifying mods
+2022-12-20 06:57:01,006 [DEBUG] | Checking for updates to {u'directory': u'@DeerIsle', u'disabled': False, u'disable_updates': False, u'file_id': 1602372402, u'server_side': False}
+2022-12-20 06:57:01,006 [DEBUG] | Checking for updates to {u'directory': u'@CF', u'disabled': False, u'disable_updates': False, u'file_id': 1559212036, u'server_side': False}
+2022-12-20 06:57:01,006 [DEBUG] | Checking for updates to {u'directory': u'@Community-Online-Tools', u'disabled': False, u'disable_updates': False, u'file_id': 1564026768, u'server_side': False}
+2022-12-20 06:57:01,006 [DEBUG] | Checking for updates to {u'directory': u'@BaseBuildingPlus', u'disabled': False, u'disable_updates': False, u'file_id': 1710977250, u'server_side': False}
+2022-12-20 06:57:01,006 [DEBUG] | Checking for updates to {u'directory': u'@BBPItemPack', u'disabled': False, u'disable_updates': False, u'file_id': 2794690371L, u'server_side': False}
+2022-12-20 06:57:01,007 [DEBUG] | Checking for updates to {u'directory': u'@BuildAnywhere_v3', u'disabled': False, u'disable_updates': False, u'file_id': 1854626456, u'server_side': False}
+2022-12-20 06:57:01,007 [DEBUG] | Checking for updates to {u'directory': u'@Code Lock', u'disabled': False, u'disable_updates': False, u'file_id': 1646187754, u'server_side': False}
+2022-12-20 06:57:01,007 [DEBUG] | Checking for updates to {u'directory': u'@BuilderItems', u'disabled': False, u'disable_updates': False, u'file_id': 1565871491, u'server_side': False}
+2022-12-20 06:57:01,009 [DEBUG] | Checking for updates to {u'directory': u'@Dabs Framework', u'disabled': False, u'disable_updates': False, u'file_id': 2545327648L, u'server_side': False}
+2022-12-20 06:57:01,009 [DEBUG] | Checking for updates to {u'directory': u'@DayZ Editor Loader', u'disabled': False, u'disable_updates': False, u'file_id': 2276010135L, u'server_side': False}
+2022-12-20 06:57:01,009 [DEBUG] | Checking for updates to {u'directory': u'@Dayz Navigation', u'disabled': False, u'disable_updates': False, u'file_id': 1791033033, u'server_side': False}
+2022-12-20 06:57:01,009 [DEBUG] | Checking for updates to {u'directory': u'@Ear-Plugs', u'disabled': False, u'disable_updates': False, u'file_id': 1819514788, u'server_side': False}
+2022-12-20 06:57:01,009 [DEBUG] | Checking for updates to {u'directory': u'@FOX WEAPONS 2.0', u'disabled': False, u'disable_updates': False, u'file_id': 2723807644L, u'server_side': False}
+2022-12-20 06:57:01,009 [DEBUG] | Checking for updates to {u'directory': u'@gebsfish', u'disabled': False, u'disable_updates': False, u'file_id': 2757509117L, u'server_side': False}
+2022-12-20 06:57:01,010 [DEBUG] | Checking for updates to {u'directory': u"@Mass'sManyItemOverhaul", u'disabled': False, u'disable_updates': False, u'file_id': 1566911166, u'server_side': False}
+2022-12-20 06:57:01,010 [DEBUG] | Checking for updates to {u'directory': u'@MuchStuffPack', u'disabled': False, u'disable_updates': False, u'file_id': 1991570984, u'server_side': False}
+2022-12-20 06:57:01,010 [DEBUG] | Checking for updates to {u'directory': u'@WindstridesClothingPack', u'disabled': False, u'disable_updates': False, u'file_id': 1797720064, u'server_side': False}
+2022-12-20 06:57:01,010 [DEBUG] | Checking for updates to {u'directory': u'@MunghardsItempack', u'disabled': False, u'disable_updates': False, u'file_id': 1734713776, u'server_side': False}
+2022-12-20 06:57:01,012 [DEBUG] | Checking for updates to {u'directory': u'@CannabisPlus', u'disabled': False, u'disable_updates': False, u'file_id': 1932611410, u'server_side': False}
+2022-12-20 06:57:01,012 [DEBUG] | Checking for updates to {u'directory': u'@VanillaPlusPlusMap', u'disabled': False, u'disable_updates': False, u'file_id': 1623711988, u'server_side': False}
+2022-12-20 06:57:01,012 [DEBUG] | Checking for updates to {u'directory': u'@Notifications', u'disabled': False, u'disable_updates': False, u'file_id': 2353998362L, u'server_side': False}
+2022-12-20 06:57:01,012 [DEBUG] | Checking for updates to {u'directory': u'@RedFalcon Flight System Heliz', u'disabled': False, u'disable_updates': False, u'file_id': 2692979668L, u'server_side': False}
+2022-12-20 06:57:01,013 [DEBUG] | Checking for updates to {u'directory': u'@42 Months After  PvE + RP Mod Pack', u'disabled': False, u'disable_updates': False, u'file_id': 2902744485L, u'server_side': False}
+2022-12-20 06:57:01,013 [DEBUG] | Creating ./servers/0/@Fortune Mods - Cars & Tanks & Vehicle packs
+2022-12-20 06:57:02,617 [DEBUG] | Installing key(s) for 2834226077
+2022-12-20 06:57:02,618 [INFO] | Could not install key as either no key directory is present or the key directory is inaccessible (2834226077)
+2022-12-20 06:57:02,618 [DEBUG] | Creating ./servers/0/@TraderPlus
+2022-12-20 06:57:02,716 [DEBUG] | Installing key(s) for 2458896948
+2022-12-20 06:57:02,717 [DEBUG] | Installed key C4BaseRaidbyDmitri.bikey for 2458896948
+2022-12-20 06:57:02,719 [DEBUG] | Launch command: ./servers/0/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2302 -profiles=profiles  -adminlog -freezecheck -dologs "-mod=@DeerIsle;@CF;@Community-Online-Tools;@BaseBuildingPlus;@BBPItemPack;@BuildAnywhere_v3;@Code Lock;@BuilderItems;@Dabs Framework;@DayZ Editor Loader;@Dayz Navigation;@Ear-Plugs;@FOX WEAPONS 2.0;@gebsfish;@Mass'sManyItemOverhaul;@MuchStuffPack;@WindstridesClothingPack;@MunghardsItempack;@CannabisPlus;@VanillaPlusPlusMap;@Notifications;@RedFalcon Flight System Heliz;@42 Months After  PvE + RP Mod Pack;@Fortune Mods - Cars & Tanks & Vehicle packs;@TraderPlus;"
+2022-12-20 06:57:02,721 [DEBUG] | Launched process on PID: 1436
+2022-12-20 06:57:02,721 [INFO] | Server process running
+2022-12-20 06:57:02,723 [DEBUG] | Elevated process to real time
+2022-12-20 06:57:07,730 [DEBUG] | [FW2-RPT] new candidate DayZServer_x64_2022-12-20_06-57-02.RPT (1671548227.66 >? 1671548222.72)
+2022-12-20 06:57:07,730 [DEBUG] | [FW2-RPT] Starting with ./servers/0/profiles/DayZServer_x64_2022-12-20_06-57-02.RPT
+2022-12-20 06:57:13,773 [DEBUG] | Server using 27016 as SteamQueryPort
+2022-12-20 06:57:13,773 [DEBUG] | Sending DZSAL query request...
+2022-12-20 06:57:13,773 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671548222.95 >? 1671548222.72)
+2022-12-20 06:57:13,773 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671548222.95 >? 1671548222.72)
+2022-12-20 06:57:13,773 [DEBUG] | [FW2-ADM] Starting with ./servers/0/profiles/DayZServer_x64.ADM
+2022-12-20 06:58:27,676 [DEBUG] | [FW2-ADM] shutdown took 0s
+2022-12-20 06:58:27,683 [DEBUG] | [FW2-RPT] shutdown took 0s
+2022-12-20 06:58:27,683 [DEBUG] | [Shutdown] RCon authenticated
+2022-12-20 06:58:27,683 [DEBUG] | [Shutdown] RCon listener starting...
+2022-12-20 06:58:27,683 [DEBUG] | [Shutdown] RCon listener started
+2022-12-20 06:58:27,684 [DEBUG] | [Shutdown] Sent RCon lock command
+2022-12-20 06:58:37,694 [DEBUG] | [Shutdown] Sent RCon kick delayed command
+2022-12-20 06:58:43,697 [DEBUG] | [Shutdown] Sent RCon shutdown command
+2022-12-20 06:58:43,697 [DEBUG] | [Shutdown] Completed
+2022-12-20 06:58:46,081 [WARNING] | Abnormal memory depletion detected
+2022-12-20 06:58:47,089 [WARNING] | Abnormal low CPU usage, process may be dead. Analysing... (False, 4.81, 2.0119998455)
+2022-12-20 06:58:48,096 [ERROR] | Server PID could not be accessed.
+2022-12-20 06:58:53,701 [DEBUG] | [Shutdown] RCon listener exited
+2022-12-20 07:02:37,608 [DEBUG] | Creating startup backup
+2022-12-20 07:02:37,608 [DEBUG] | Initiating complete backup (./servers/0/mpmissions/empty.deerisle/storage_1/data)
+2022-12-20 07:02:37,608 [DEBUG] | Saving backup to ./servers/0/backups/1671548557
+2022-12-20 07:02:37,765 [DEBUG] | Backup complete
+2022-12-20 07:02:37,765 [DEBUG] | Moving logs to ./servers/0/logs/1671548557
+2022-12-20 07:02:37,765 [DEBUG] | Deleted 0 expired backups
+2022-12-20 07:02:37,766 [DEBUG] | Verifying mods
+2022-12-20 07:02:37,766 [DEBUG] | Checking for updates to {u'directory': u'@DeerIsle', u'disabled': False, u'disable_updates': False, u'file_id': 1602372402, u'server_side': False}
+2022-12-20 07:02:37,766 [DEBUG] | Checking for updates to {u'directory': u'@CF', u'disabled': False, u'disable_updates': False, u'file_id': 1559212036, u'server_side': False}
+2022-12-20 07:02:37,766 [DEBUG] | Checking for updates to {u'directory': u'@Community-Online-Tools', u'disabled': False, u'disable_updates': False, u'file_id': 1564026768, u'server_side': False}
+2022-12-20 07:02:37,766 [DEBUG] | Checking for updates to {u'directory': u'@BaseBuildingPlus', u'disabled': False, u'disable_updates': False, u'file_id': 1710977250, u'server_side': False}
+2022-12-20 07:02:37,766 [DEBUG] | Checking for updates to {u'directory': u'@BBPItemPack', u'disabled': False, u'disable_updates': False, u'file_id': 2794690371L, u'server_side': False}
+2022-12-20 07:02:37,766 [DEBUG] | Checking for updates to {u'directory': u'@BuildAnywhere_v3', u'disabled': False, u'disable_updates': False, u'file_id': 1854626456, u'server_side': False}
+2022-12-20 07:02:37,767 [DEBUG] | Checking for updates to {u'directory': u'@Code Lock', u'disabled': False, u'disable_updates': False, u'file_id': 1646187754, u'server_side': False}
+2022-12-20 07:02:37,767 [DEBUG] | Checking for updates to {u'directory': u'@BuilderItems', u'disabled': False, u'disable_updates': False, u'file_id': 1565871491, u'server_side': False}
+2022-12-20 07:02:37,767 [DEBUG] | Checking for updates to {u'directory': u'@Dabs Framework', u'disabled': False, u'disable_updates': False, u'file_id': 2545327648L, u'server_side': False}
+2022-12-20 07:02:37,769 [DEBUG] | Checking for updates to {u'directory': u'@DayZ Editor Loader', u'disabled': False, u'disable_updates': False, u'file_id': 2276010135L, u'server_side': False}
+2022-12-20 07:02:37,769 [DEBUG] | Checking for updates to {u'directory': u'@Dayz Navigation', u'disabled': False, u'disable_updates': False, u'file_id': 1791033033, u'server_side': False}
+2022-12-20 07:02:37,769 [DEBUG] | Checking for updates to {u'directory': u'@Ear-Plugs', u'disabled': False, u'disable_updates': False, u'file_id': 1819514788, u'server_side': False}
+2022-12-20 07:02:37,769 [DEBUG] | Checking for updates to {u'directory': u'@FOX WEAPONS 2.0', u'disabled': False, u'disable_updates': False, u'file_id': 2723807644L, u'server_side': False}
+2022-12-20 07:02:37,769 [DEBUG] | Checking for updates to {u'directory': u'@gebsfish', u'disabled': False, u'disable_updates': False, u'file_id': 2757509117L, u'server_side': False}
+2022-12-20 07:02:37,769 [DEBUG] | Checking for updates to {u'directory': u"@Mass'sManyItemOverhaul", u'disabled': False, u'disable_updates': False, u'file_id': 1566911166, u'server_side': False}
+2022-12-20 07:02:37,769 [DEBUG] | Checking for updates to {u'directory': u'@MuchStuffPack', u'disabled': False, u'disable_updates': False, u'file_id': 1991570984, u'server_side': False}
+2022-12-20 07:02:37,770 [DEBUG] | Checking for updates to {u'directory': u'@WindstridesClothingPack', u'disabled': False, u'disable_updates': False, u'file_id': 1797720064, u'server_side': False}
+2022-12-20 07:02:37,770 [DEBUG] | Checking for updates to {u'directory': u'@MunghardsItempack', u'disabled': False, u'disable_updates': False, u'file_id': 1734713776, u'server_side': False}
+2022-12-20 07:02:37,770 [DEBUG] | Checking for updates to {u'directory': u'@CannabisPlus', u'disabled': False, u'disable_updates': False, u'file_id': 1932611410, u'server_side': False}
+2022-12-20 07:02:37,772 [DEBUG] | Checking for updates to {u'directory': u'@VanillaPlusPlusMap', u'disabled': False, u'disable_updates': False, u'file_id': 1623711988, u'server_side': False}
+2022-12-20 07:02:37,772 [DEBUG] | Checking for updates to {u'directory': u'@Notifications', u'disabled': False, u'disable_updates': False, u'file_id': 2353998362L, u'server_side': False}
+2022-12-20 07:02:37,772 [DEBUG] | Checking for updates to {u'directory': u'@RedFalcon Flight System Heliz', u'disabled': False, u'disable_updates': False, u'file_id': 2692979668L, u'server_side': False}
+2022-12-20 07:02:37,772 [DEBUG] | Checking for updates to {u'directory': u'@42 Months After  PvE + RP Mod Pack', u'disabled': False, u'disable_updates': False, u'file_id': 2902744485L, u'server_side': False}
+2022-12-20 07:02:37,773 [DEBUG] | Checking for updates to {u'directory': u'@Fortune Mods - Cars & Tanks & Vehicle packs', u'disabled': False, u'disable_updates': False, u'file_id': 2834226077L, u'server_side': False}
+2022-12-20 07:02:37,773 [DEBUG] | Creating ./servers/0/@GameLabs
+2022-12-20 07:02:37,792 [DEBUG] | Installing key(s) for 2464526692
+2022-12-20 07:02:37,792 [DEBUG] | Installed key cftoolsRoot.bikey for 2464526692
+2022-12-20 07:02:37,792 [DEBUG] | Checking for updates to {u'directory': u'@TraderPlus', u'disabled': False, u'disable_updates': False, u'file_id': 2458896948L, u'server_side': False}
+2022-12-20 07:02:37,796 [DEBUG] | Launch command: ./servers/0/DayZServer_x64.exe -config=serverDZ.cfg.active -port=2302 -profiles=profiles  -adminlog -freezecheck -dologs "-mod=@DeerIsle;@CF;@Community-Online-Tools;@BaseBuildingPlus;@BBPItemPack;@BuildAnywhere_v3;@Code Lock;@BuilderItems;@Dabs Framework;@DayZ Editor Loader;@Dayz Navigation;@Ear-Plugs;@FOX WEAPONS 2.0;@gebsfish;@Mass'sManyItemOverhaul;@MuchStuffPack;@WindstridesClothingPack;@MunghardsItempack;@CannabisPlus;@VanillaPlusPlusMap;@Notifications;@RedFalcon Flight System Heliz;@42 Months After  PvE + RP Mod Pack;@Fortune Mods - Cars & Tanks & Vehicle packs;@GameLabs;@TraderPlus;"
+2022-12-20 07:02:37,799 [DEBUG] | Launched process on PID: 4632
+2022-12-20 07:02:37,799 [INFO] | Server process running
+2022-12-20 07:02:37,799 [DEBUG] | Elevated process to real time
+2022-12-20 07:02:42,805 [DEBUG] | [FW2-RPT] new candidate DayZServer_x64_2022-12-20_07-02-37.RPT (1671548560.82 >? 1671548557.8)
+2022-12-20 07:02:42,805 [DEBUG] | [FW2-RPT] Starting with ./servers/0/profiles/DayZServer_x64_2022-12-20_07-02-37.RPT
+2022-12-20 07:02:47,302 [DEBUG] | Server using 27016 as SteamQueryPort
+2022-12-20 07:02:47,302 [DEBUG] | Sending DZSAL query request...
+2022-12-20 07:02:47,302 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671548557.98 >? 1671548557.8)
+2022-12-20 07:02:47,302 [DEBUG] | [FW2-ADM] new candidate DayZServer_x64.ADM (1671548557.98 >? 1671548557.8)
+2022-12-20 07:02:47,302 [DEBUG] | [FW2-ADM] Starting with ./servers/0/profiles/DayZServer_x64.ADM
+2022-12-20 07:12:45,332 [INFO] | Server resource usage: CPU: 0.0% | MEM: 6381MB | AVG-FPS: 11771.2 [running]
+2022-12-20 07:22:53,996 [INFO] | Server resource usage: CPU: 0.0% | MEM: 6733MB | AVG-FPS: 37447.4 [running]
+2022-12-20 07:24:44,582 [ERROR] | Server PID could not be accessed.
+2022-12-20 07:24:44,598 [DEBUG] | Restoring shadow persistence
+2022-12-20 07:24:44,612 [INFO] | Restored shadow persistence
+2022-12-20 07:24:44,691 [DEBUG] | [FW2-ADM] shutdown took 0s
+2022-12-20 07:24:44,801 [DEBUG] | [FW2-RPT] shutdown took 0s
+2022-12-20 07:24:44,801 [DEBUG] | sleeping for 5s (grace_period)

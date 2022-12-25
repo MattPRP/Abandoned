@@ -1,0 +1,32 @@
+{
+    "CategoryName": "Hand Guns",
+    "Products": [
+        "MKII 1 0",
+        "MakarovIJ70 1 0",
+        "Magnum 1 0",
+        "FNX45 1 0",
+        "CZ75 1 0",
+        "Colt1911 1 0",
+        "Deagle 1 0",
+        "Deagle_Gold 1 0",
+        "Engraved1911 1 0",
+        "Glock19 1 0",
+        "Nagant1895_mung 1 0",
+        "FOX_SR1 1 0",
+        "FOX_APS 1 0",
+        "FOX_PM 1 0",
+        "FOX_MP443 1 0",
+        "FOX_FN57 1 0",
+        "FOX_Glock18C 1 0",
+        "MassG18 1 0",
+        "MassG18_Green 1 0",
+        "Mass357M1911 1 0",
+        "lebedev_PL15_mung 1 0",
+        "Msp_Water_Gun 1 0",
+        "Glock19 2 1",
+        "CZ75 2 1",
+        "Deagle_Gold 1 1",
+        "FNX45 2 1",
+        "MakarovIJ70 1 1"
+    ]
+}

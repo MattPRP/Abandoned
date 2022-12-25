@@ -1,0 +1,3 @@
+# Write admins UIDs (44 digits) below. Each one at a new line.
+BlCTbSRV5QYaEKP-S_Hg4CG7zCAg90tKLTciEKHy8Pc=
+mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
