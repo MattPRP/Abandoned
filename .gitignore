@@ -1,0 +1,14 @@
+*.pbo
+*.ebo
+*.bisign
+*.bin
+*.log
+*.001
+*.002
+*.RPT
+*.ADM
+*.mdmp
+*.db
+/mpmissions/empty.deerisle/storage_1/backup/*
+/mpmissions/empty.deerisle/storage_1/data/*
+/mpmissions/empty.deerisle/storage_1/*
