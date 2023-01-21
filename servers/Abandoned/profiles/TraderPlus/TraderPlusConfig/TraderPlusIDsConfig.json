@@ -77,6 +77,13 @@
                 "Weapon Lights",
                 "Weapon Care",
                 "Ammo",
+				"SNAFU Weapons",
+				"SNAFU Optics",
+				"SNAFU Handguards",
+				"SNAFU Stocks",
+				"SNAFU Suppressors",
+				"SNAFU Attachments",
+				"SNAFU Ammo",
                 "Money Exchange"
             ],
             "LicencesRequired": [],
